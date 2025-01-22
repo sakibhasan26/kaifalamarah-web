@@ -1,0 +1,845 @@
+Key,en,es,ar,fr,hi
+Dashboard,Dashboard,Panel,لوحة القيادة,Devise de configuration,डैशबोर्ड
+Default,Default,Por defecto,تقصير,Campagnes,गलती करना
+Setup Currency,Setup Currency,Configuración de moneda,عملة الإعداد,Événements,सेटअप मुद्रा
+Campaigns,Campaigns,Campañas,الحملات,Langue créée avec succès !,अभियान
+Events,Events,Eventos,الأحداث,Transactions et journal,घटनाएँ
+Language created successfully!,Language created successfully!,¡Idioma creado exitosamente!,تم إنشاء اللغة بنجاح!,Ajouter des journaux d'argent,भाषा सफलतापूर्वक बनाई गई!
+Transactions & Log,Transactions & Log,Transacciones y registro,المعاملات والسجل,Journaux en attente,लेनदेन एवं लॉग
+Add Money Logs,Add Money Logs,Agregar registros de dinero,إضافة سجلات الأموال,Journaux terminés,मनी लॉग्स जोड़ें
+Pending Logs,Pending Logs,Registros pendientes,السجلات المعلقة,Journaux annulés,लंबित लॉग
+Completed Logs,Completed Logs,Registros completados,السجلات المكتملة,Tous les journaux,पूर्ण लॉग
+Canceled Logs,Canceled Logs,Registros cancelados,السجلات الملغاة,Journaux de dons,रद्द किए गए लॉग
+All Logs,All Logs,Todos los registros,جميع السجلات,Entretien utilisateur,सभी लॉग
+Donation Logs,Donation Logs,Registros de donaciones,سجلات التبرع,Utilisateurs actifs,दान लॉग
+User Care,User Care,Atención al usuario,رعاية المستخدم,E-mail non vérifié,उपयोगकर्ता देखभाल
+Active Users,Active Users,Usuarios activos,المستخدمون النشطون,Tous les utilisateurs,सक्रिय उपयोगकर्ता
+Email Unverified,Email Unverified,Correo electrónico no verificado,لم يتم التحقق من البريد الإلكتروني,Envoyer un e-mail aux utilisateurs,ईमेल असत्यापित
+All Users,All Users,Todos los usuarios,كافة المستخدمين,Utilisateurs bannis,सभी उपयोगकर्ता
+Email To Users,Email To Users,Enviar correo electrónico a los usuarios,البريد الإلكتروني للمستخدمين,Soins administratifs,उपयोगकर्ताओं को ईमेल करें
+Banned Users,Banned Users,Usuarios prohibidos,المستخدمون المحظورون,Tous les administrateurs,प्रतिबंधित उपयोगकर्ता
+Admin Care,Admin Care,Atención administrativa,رعاية المشرف,Rôle d'administrateur,व्यवस्थापक देखभाल
+All Admin,All Admin,Todos los administradores,كل المشرف,Autorisation de rôle,सभी व्यवस्थापक
+Admin Role,Admin Role,Rol de administrador,دور المشرف,Envoyer un e-mail à l'administrateur,व्यवस्थापक भूमिका
+Role Permission,Role Permission,Permiso de rol,إذن الدور,Abonné,भूमिका की अनुमति
+Email To Admin,Email To Admin,Enviar correo electrónico al administrador,البريد الإلكتروني إلى المشرف,Messages de contact,एडमिन को ईमेल करें
+Subscriber,Subscriber,Abonado,المشترك,Paramètres,ग्राहक
+Contact Messages,Contact Messages,Mensajes de contacto,رسائل الاتصال,Paramètres Web,संपर्क संदेश
+Settings,Settings,Ajustes,إعدادات,Paramètres de base,सेटिंग्स
+Web Settings,Web Settings,Configuración web,إعدادات الويب,Actifs d’image,वेब सेटिंग्स
+Basic Settings,Basic Settings,Configuraciones básicas,الإعدادات الأساسية,Configurer le référencement,बुनियादी सेटिंग्स
+Image Assets,Image Assets,Recursos de imagen,أصول الصورة,Paramètres de l'application,छवि संपत्ति
+Setup SEO,Setup SEO,Configurar SEO,إعداد كبار المسئولين الاقتصاديين,Écran de démarrage,एसईओ सेटअप करें
+App Settings,App Settings,Configuración de la aplicación,إعدادات التطبيق,Écran embarqué,ऐप सेटिंग्स
+Splash Screen,Splash Screen,Pantalla de bienvenida,شاشة البداية,URL des applications,स्प्लैश स्क्रीन
+Onboard Screen,Onboard Screen,Pantalla integrada,شاشة على متن الطائرة,Langues,ऑनबोर्ड स्क्रीन
+App URLs,App URLs,URL de aplicaciones,عناوين URL للتطبيقات,Centre de vérification,ऐप यूआरएल
+Languages,Languages,Idiomas,اللغات,E-mail de configuration,बोली
+Verification Center,Verification Center,Centro de verificación,مركز التحقق,Méthode de courrier électronique,सत्यापन केंद्र
+Setup Email,Setup Email,Configurar correo electrónico,إعداد البريد الإلكتروني,Configurer le contenu Web,सेटअप ईमेल
+Email Method,Email Method,Método de correo electrónico,طريقة البريد الإلكتروني,Section de configuration,ईमेल विधि
+Setup Web Content,Setup Web Content,Configurar contenido web,إعداد محتوى الويب,Bannière d'accueil,वेब सामग्री सेटअप करें
+Setup Section,Setup Section,Sección de configuración,قسم الإعداد,À propos de la section,सेटअप अनुभाग
+Home Banner,Home Banner,Banner de inicio,راية الصفحة الرئيسية,Télécharger l'application,होम बैनर
+About Section,About Section,Acerca de la sección,حول القسم,Section témoignage,अनुभाग के बारे में
+Download App,Download App,Descargar aplicación,تنزيل التطبيق,Section vidéo,ऐप डाउनलोड करें
+Testimonial Section,Testimonial Section,Sección de testimonios,قسم الشهادات,Section Partenaire,प्रशंसापत्र अनुभाग
+Video Section,Video Section,Sección de Vídeo,قسم الفيديو,Section de pied de page,वीडियो अनुभाग
+Partner Section,Partner Section,Sección de socios,قسم الشركاء,Fil d'Ariane,भागीदार अनुभाग
+Footer Section,Footer Section,Sección de pie de página,قسم التذييل,Section Galerie,पाद लेख अनुभाग
+Breadcrumb Section,Breadcrumb Section,Sección de ruta de navegación,قسم التنقل,Rubrique Contact,ब्रेडक्रम्ब अनुभाग
+Gallery Section,Gallery Section,Sección de galería,قسم المعرض,Type de catégorie,गैलरी अनुभाग
+Contact Section,Contact Section,Sección de contacto,قسم الاتصال,Section FAQ,संपर्क अनुभाग
+Category Type,Category Type,Tipo de categoría,نوع الفئة,Section de connexion,श्रेणी प्रकार
+Faq Section,Faq Section,Sección de preguntas frecuentes,قسم الأسئلة الشائعة,Section Inscription,अक्सर पूछे जाने वाले प्रश्न अनुभाग
+Login Section,Login Section,Sección de inicio de sesión,قسم تسجيل الدخول,Pages de configuration,लॉगिन अनुभाग
+Register Section,Register Section,Sección de registro,قسم التسجيل,Liens utiles,रजिस्टर अनुभाग
+Setup Pages,Setup Pages,Páginas de configuración,صفحات الإعداد,Rallonges,पेज सेटअप करें
+Useful Links,Useful LInks,Enlaces útiles,روابط مفيدة,Méthodes de paiement,उपयोगी कड़ियां
+Extensions,Extensions,Extensiones,ملحقات,Ajouter de l'argent,एक्सटेंशन
+Payment Methods,Payment Methods,Métodos de pago,طرق الدفع,Automatique,भुगतान के तरीके
+Add Money,Add Money,Agregar dinero,أضف المال,Manuel,पैसे जोड़ें
+Automatic,Automatic,Automático,تلقائي,Prime,स्वचालित
+Manual,Manual,Manual,يدوي,Cookie RGPD,नियमावली
+Bonus,Bonus,Prima,علاوة,Informations sur le serveur,बोनस
+GDPR Cookie,GDPR Cookie,Cookie RGPD,ملف تعريف الارتباط الناتج عن اللائحة العامة لحماية البيانات,Vider le cache,जीडीपीआर कुकी
+Server Info,Server Info,Información del servidor,معلومات الخادم,Maison,सर्वर जानकारी
+Clear Cache,Clear Cache,Borrar caché,مسح ذاكرة التخزين المؤقت,À propos,कैश को साफ़ करें
+Home,Home,Hogar,بيت,Campagne,घर
+About,About,Acerca de,عن,Contact,के बारे में
+Campaign,Campaign,Campaña,حملة,Galerie,अभियान
+Contact,Contact,Contacto,اتصال,Rejoignez l'événement,संपर्क
+Gallery,Gallery,Galería,معرض,À propos de la Fondation,गैलरी
+Join the event,Join the event,Únete al evento,انضم إلى الحدث,Liste des campagnes,आयोजन में शामिल हों
+About Foundation,About Foundation,Acerca de la Fundación,حول المؤسسة,Événements récents,फाउंडेशन के बारे में
+Campaign Listing,Campaign Listing,Listado de campaña,قائمة الحملة,Notre galerie,अभियान सूची
+Recent Events,Recent Events,Eventos recientes,الأحداث الأخيرة,Entrer en contact,हाल की घटनाएं
+Our Gallery,Our Gallery,Nuestra galería,معرضنا,Suivez-nous,हमारी गैलरी
+Get In Touch,Get In Touch,Ponte en contacto,تواصل معنا,Soutenez-nous,संपर्क में रहो
+Follow Us,Follow Us,Síganos,تابعنا,Bulletin,हमारे पर का पालन करें
+Support Us,Support Us,Apóyanos,ادعمنا,S'abonner,हमें प्रोत्साहन दें
+Newsletter,Newsletter,Hoja informativa,النشرة الإخبارية,Déclin,समाचार पत्रिका
+Subscribe,Subscribe,Suscribir,يشترك,Permettre,सदस्यता लें
+Decline,Decline,Rechazar,انخفاض,Faites un don maintenant,गिरावट
+Allow,Allow,Permitir,يسمح,Aller,अनुमति दें
+Donate Now,Donate Now,Donar ahora,تبرع الآن,Vie,अभी दान करें
+To Go,To Go,Ir,للذهاب,Notre objectif,चल देना
+Life,Life,Vida,حياة,Soulevé,ज़िंदगी
+Our Goal,Our Goal,Nuestro objetivo,هدفنا,Messages récents,हमारा लक्ष्य
+Raised,Raised,Aumentó,نشأ,Envoyer un message,उठाया
+Recent Posts,Recent Posts,Publicaciones recientes,المشاركات الأخيرة,Notre emplacement,हाल के पोस्ट
+Send Message,Send Message,Enviar mensaje,أرسل رسالة,Appelez-nous au,मेसेज भेजें
+Our Location,Our Location,Nuestra Ubicación,موقعنا,Envoyez-nous un email directement,हमारा स्थान
+Call us on,Call us on,Llámanos al,اتصل بنا على,Mot de passe oublié,हमें कॉल करें
+Email us directly,Email us directly,Envíenos un correo electrónico directamente,راسلنا عبر البريد الإلكتروني مباشرة,Connectez-vous maintenant,हमें सीधे ईमेल करें
+Forgot Password,Forgot Password,Has olvidado tu contraseña,هل نسيت كلمة السر,Ou,पासवर्ड भूल गए
+Login Now,Login Now,Iniciar sesión ahora,تسجيل الدخول الآن,Inscrivez-vous maintenant,अभी लॉगिन करें
+Or,Or,O,أو,Vous avez déjà un compte,या
+Register Now,Register Now,Regístrese ahora,سجل الآن,Envoyer le code,अभी पंजीकरण करें
+Already Have An Account,Already Have An Account,Ya tienes una cuenta,لديك حساب بالفعل,Mot de passe oublié,क्या आपके पास पहले से एक खाता मौजूद है
+Send Code,Send Code,Enviar código,إرسال الرمز,Entrez l'e-mail ou le nom d'utilisateur de votre compte pour vérifier,कोड भेजें
+Password Forgot,Password Forgot,Contraseña olvidada,نسيت كلمة المرور,Réinitialisation du mot de passe,पासवर्ड भूल गए
+Enter your account email or username to verify,Enter your account email or username to verify,Ingrese el correo electrónico o nombre de usuario de su cuenta para verificar,أدخل البريد الإلكتروني لحسابك أو اسم المستخدم للتحقق,Réinitialisez votre mot de passe,सत्यापित करने के लिए अपना खाता ईमेल या उपयोगकर्ता नाम दर्ज करें
+Password Reset,Password Reset,Restablecer contraseña,إعادة تعيين كلمة المرور,Réinitialiser,पासवर्ड रीसेट
+Reset your password,Reset your password,Restablece tu contraseña,إعادة تعيين كلمة المرور الخاصة بك,Vérification OTP,अपना पासवर्ड रीसेट करें
+Reset,Reset,Reiniciar,إعادة ضبط,Veuillez vérifier votre adresse e-mail pour obtenir l'OTP (mot de passe à usage unique),रीसेट करें
+OTP Verification,OTP Verification,Verificación OTP,التحقق من OTP,Vérifier,ओटीपी सत्यापन
+Please check your email address to get the OTP (One time password),Please check your email address to get the OTP (One time password),Verifique su dirección de correo electrónico para obtener la OTP (contraseña de un solo uso),يرجى التحقق من عنوان بريدك الإلكتروني للحصول على OTP (كلمة المرور لمرة واحدة),Vérification KYC,ओटीपी (वन टाइम पासवर्ड) प्राप्त करने के लिए कृपया अपना ईमेल पता जांचें
+Verify,Verify,Verificar,يؤكد,Veuillez soumettre vos informations KYC avec des données valides.,सत्यापित करें
+KYC Verification,KYC Verification,Verificación KYC,التحقق من KYC,Autorisation de compte,केवाईसी सत्यापन
+Please submit your KYC information with valid data.,Please submit your KYC information with valid data.,Envíe su información KYC con datos válidos.,يرجى تقديم معلومات KYC الخاصة بك مع بيانات صالحة.,Besoin de vérifier votre compte. Veuillez vérifier votre boîte de réception pour obtenir le code d'autorisation,कृपया वैध डेटा के साथ अपनी केवाईसी जानकारी जमा करें।
+Account Authorization,Account Authorization,Autorización de cuenta,ترخيص الحساب,Vous pouvez renvoyer le code après,खाता प्राधिकरण
+Need to verify your account. Please check your mail inbox to get the authorization code,Need to verify your account. Please check your mail inbox to get the authorization code,Necesita verificar su cuenta. Por favor revise su bandeja de entrada de correo para obtener el código de autorización.,تحتاج إلى التحقق من حسابك. يرجى التحقق من صندوق البريد الوارد الخاص بك للحصول على رمز التفويض,Autoriser,अपना खाता सत्यापित करने की आवश्यकता है. कृपया प्राधिकरण कोड प्राप्त करने के लिए अपना मेल इनबॉक्स जांचें
+You can resend the code after,You can resend the code after,Puedes reenviar el código después,يمكنك إعادة إرسال الرمز بعد ذلك,Historique des dons,आप इसके बाद कोड दोबारा भेज सकते हैं
+Authorize,Authorize,Autorizar,يأذن,Faire un don,अधिकृत
+Donation History,Donation History,Historial de donaciones,تاريخ التبرع,Événement,दान इतिहास
+Donate,Donate,Donar,يتبرع,Solde actuel,दान करें
+Event,Event,Evento,حدث,Voir tout,आयोजन
+Current Balance,Current Balance,Saldo actual,الرصيد الحالي,Ajouter,वर्तमान शेष
+View all,View all,Ver todo,عرض الكل,Montant total du don,सभी को देखें
+Add,Add,Agregar,يضيف,Don total,जोड़ना
+Total Donation Amount,Total Donation Amount,Monto total de la donación,إجمالي مبلغ التبرع,Campagne totale,कुल दान राशि
+Total Donate,Total Donate,Donación Total,إجمالي التبرع,Montant du dernier don,कुल दान
+Total Campaign,Total Campaign,Campaña total,إجمالي الحملة,Événement total,कुल अभियान
+Last Donate Amount,Last Donate Amount,Monto de la última donación,آخر مبلغ التبرع,Graphique de l'historique des dons,अंतिम दान राशि
+Total Event,Total Event,Evento total,إجمالي الحدث,Titre de la campagne,कुल घटना
+Donate History Chart,Donate History Chart,Cuadro histórico de donaciones,تبرع مخطط التاريخ,Objectif de la campagne,इतिहास चार्ट दान करें
+Campaign Title,Campaign Title,Título de la campaña,عنوان الحملة,Montant du don,अभियान शीर्षक
+Campaign Goal,Campaign Goal,Objetivo de la campaña,هدف الحملة,Statut,अभियान लक्ष्य
+Donation Amount,Donation Amount,Monto de la donación,مبلغ التبرع,Date du don,दान राशि
+Status,Status,Estado,حالة,Taux de change,स्थिति
+Donation Date,Donation Date,Fecha de donación,تاريخ التبرع,Estival,दान तिथि
+Exchange Rate,Exchange Rate,Tipo de cambio,سعر الصرف,Montant saisi,विनिमय दर
+Summery,Summery,Veraniego,صيفي,Total des frais et charges,ग्रीष्मकालिन
+Entered Amount,Entered Amount,Monto ingresado,المبلغ المدخل,obtiendra,दर्ज की गई राशि
+Total Fees & Charges,Total Fees & Charges,Tarifas y cargos totales,إجمالي الرسوم والمصاريف,Montant total à payer,कुल शुल्क एवं शुल्क
+Will Get,Will Get,obtendrá,سوف تحصل,Ajouter un journal d'argent,लाऊंगा
+Total Payable Amount,Total Payable Amount,Monto total a pagar,إجمالي المبلغ المستحق,Ajouter un solde via,कुल देय राशि
+Add Money Log,Add Money Log,Agregar registro de dinero,إضافة سجل الأموال,Heure et date,मनी लॉग जोड़ें
+Add Balance via,Add Balance via,Agregar saldo a través de,إضافة رصيد عبر,ID de transaction,के माध्यम से शेष राशि जोड़ें
+Time & Date,Time & Date,Hora y fecha,الوقت والتاريخ,Frais et charges,समय एवं दिनांक
+Transaction ID,Transaction ID,ID de transacción,معرف المعاملة,Montant total,लेन-देन आईडी
+Fees & Charge,Fees & Charge,Tarifas y cargos,الرسوم والتكاليف,Changer le mot de passe,फीस एवं शुल्क
+Total Amount,Total Amount,Monto Total,المبلغ الإجمالي,Paramètres du profil,कुल राशि
+Change Password,Change Password,Cambiar la contraseña,تغيير كلمة المرور,Déconnexion,पासवर्ड बदलें
+Profile Settings,Profile Settings,Configuración de perfil,إعدادات الملف الشخصي,Profil utilisateur,प्रोफ़ाइल सेटिंग्स
+Logout,Logout,Cerrar sesión,تسجيل الخروج,Mise à jour,लॉग आउट
+User Profile,User Profile,Perfil de usuario,ملف تعريف المستخدم,Mot de passe actuel,उपयोगकर्ता रूपरेखा
+Update,Update,Actualizar,تحديث,Nouveau mot de passe,अद्यतन
+Current Password,Current Password,Contraseña actual,كلمة المرور الحالية,Confirmez le mot de passe,वर्तमान पासवर्ड
+New Password,New Password,Nueva contraseña,كلمة المرور الجديدة,Changement,नया पासवर्ड
+Confirm Password,Confirm Password,confirmar Contraseña,تأكيد كلمة المرور,Ajouter un solde d'argent,पासवर्ड की पुष्टि कीजिये
+Change,Change,Cambiar,يتغير,Don de tous les temps,परिवर्तन
+Add Money Balance,Add Money Balance,Agregar saldo de dinero,إضافة رصيد المال,Nombre total d'utilisateurs,धन शेष जोड़ें
+All Time Donation,All Time Donation,Donación de todos los tiempos,التبرع في كل الأوقات,Actif,सर्वकालिक दान
+Total Users,Total Users,Usuarios totales,إجمالي المستخدمين,Non vérifié,कुल उपयोगकर्ता
+Active,Active,Activo,نشيط,Ce mois-ci,सक्रिय
+Unverified,Unverified,Inconfirmado,لم يتم التحقق منها,Mois dernier,असत्यापित
+This Month,This Month,este mes,هذا الشهر,En attente d'ajouter de l'argent,इस महीने
+Last Month,Last Month,Mes pasado,الشهر الماضي,En attente de don,पिछला महीना
+Pending Add Money,Pending Add Money,Pendiente Agregar dinero,في انتظار إضافة المال,Aujourd'hui,लंबित पैसा जोड़ें
+Pending Donation,Pending Donation,Donación pendiente,في انتظار التبرع,Tableau d'ajout d'argent mensuel,लंबित दान
+Today,Today,Hoy,اليوم,Voir,आज
+Monthly Add Money Chart,Monthly Add Money Chart,Gráfico mensual para agregar dinero,مخطط إضافة الأموال شهريًا,Tableau des dons mensuels,मासिक धन जोड़ें चार्ट
+View,View,Vista,منظر,Analyse des campagnes et des événements,देखना
+Monthly Donation Chart,Monthly Donation Chart,Tabla de donaciones mensuales,مخطط التبرع الشهري,Voir la campagne,मासिक दान चार्ट
+Campaign And Event Analytics,Campaign And Event Analytics,Análisis de campañas y eventos,تحليلات الحملة والحدث,Voir l'événement,अभियान और घटना विश्लेषण
+View Campaign,View Campaign,Ver campaña,عرض الحملة,Analyse des utilisateurs,अभियान देखें
+View Event,View Event,Ver evento,عرض الحدث,Afficher l'utilisateur,घटना देखें
+User Analytics,User Analytics,Análisis de usuario,تحليلات المستخدم,Croissance des dons,उपयोगकर्ता विश्लेषण
+View User,View User,Ver usuario,عرض المستخدم,Voir le don,उपयोगकर्ता देखें
+Donation Growth,Donation Growth,Crecimiento de donaciones,نمو التبرعات,Derniers dons,दान वृद्धि
+View Donation,View Donation,Ver donación,عرض التبرع,Montant total des échanges,दान देखें
+Latest Donations,Latest Donations,Últimas donaciones,أحدث التبرعات,Montant total du marché,नवीनतम दान
+Total Trade Amount,Total Trade Amount,Monto total del comercio,إجمالي مبلغ التجارة,TRX,कुल व्यापार राशि
+Total Marketplace Amount,Total Marketplace Amount,Monto total del mercado,إجمالي مبلغ السوق,E-mail,कुल बाज़ार राशि
+TRX,TRX,TRX,تي آر إكس,Montant,क्लीन स्टार्ट
+Email,Email,Correo electrónico,بريد إلكتروني,Méthode,ईमेल
+Amount,Amount,Cantidad,كمية,Temps,मात्रा
+Method,Method,Método,طريقة,Bienvenue à,तरीका
+Time,Time,Tiempo,وقت,Panneau d'administration,समय
+Welcome To,Welcome To,Bienvenido a,مرحبا بكم في,Nom | Code,आपका स्वागत है
+Admin Panel,Admin Panel,Panel de administración,لوحة الإدارة,Symbole,व्यवस्थापक पैनल
+Name | Code,Name | Code,Nombre | Código,الاسم | شفرة,Taper,नाम | कोड
+Symbol,Symbol,Símbolo,رمز,Section Campagne,प्रतीक
+Type,Type,Tipo,يكتب,Ajouter une campagne,प्रकार
+Campaign Section,Campaign Section,Sección de campaña,قسم الحملة,Titre,अभियान अनुभाग
+Add Campaign,Add Campaign,Agregar campaña,أضف حملة,Modifier la campagne,अभियान जोड़ें
+Title,Title,Título,عنوان,Ajouter un événement,शीर्षक
+Edit Campaign,Edit Campaign,Editar campaña,تحرير الحملة,Catégorie,अभियान संपादित करें
+Add Event,Add Event,Agregar evento,أضف حدثًا,Événement Modifier,कार्यक्रम जोड़ें
+Category,Category,Categoría,فئة,Journaux complets,वर्ग
+Event Edit,Event Edit,Editar evento,تحرير الحدث,Nom d'utilisateur,घटना संपादित करें
+Complete Logs,Complete Logs,Registros completos,سجلات كاملة,Statut vérifié par e-mail,पूर्ण लॉग
+Username,Username,Nombre de usuario,اسم المستخدم,Action,उपयोगकर्ता नाम
+Email Verified Status,Email Verified Status,Estado verificado del correo electrónico,حالة التحقق من البريد الإلكتروني,Envoyer un e-mail aux utilisateurs non vérifiés,ईमेल सत्यापित स्थिति
+Action,Action,Acción,فعل,Nom et prénom,कार्रवाई
+Email Unverified Users,Email Unverified Users,Enviar correo electrónico a usuarios no verificados,إرسال بريد إلكتروني للمستخدمين الذين لم يتم التحقق منهم,Ajouter un administrateur,असत्यापित उपयोगकर्ताओं को ईमेल करें
+Full Name,Full Name,Nombre completo,الاسم الكامل,Modifier l'administrateur,पूरा नाम
+Add Admin,Add Admin,Agregar administrador,إضافة المشرف,Tous les abonnés,व्यवस्थापक जोड़ें
+Edit Admin,Edit Admin,Editar administrador,تحرير المشرف,Envoyer un e-mail à tous,व्यवस्थापक संपादित करें
+All Subscriber,All Subscriber,Todos los suscriptores,جميع المشتركين,Date,सभी सब्सक्राइबर
+Email To All,Email To All,Correo electrónico a todos,البريد الإلكتروني للجميع,Envoyer un e-mail,सभी को ईमेल करें
+Date,Date,Fecha,تاريخ,Nom,तारीख
+Send Email,Send Email,Enviar correo electrónico,إرسال البريد الإلكتروني,Téléphone,ईमेल भेजें
+Name,Name,Nombre,اسم,Aucune donnée trouvée !,नाम
+Phone,Phone,Teléfono,هاتف,Message,फ़ोन
+No data found!,No data found!,¡No se encontraron datos!,لم يتم العثور على بيانات!,Sous-titre,डाटा प्राप्त नहीं हुआ!
+Message,Message,Mensaje,رسالة,Gestionnaire de langues,संदेश
+Sub Title,Sub Title,Subtítulo,العنوان الفرعي,Code,उपशीर्षक
+Language Manager,Language Manager,Administrador de idiomas,مدير اللغة,Ajouter un nouveau,भाषा प्रबंधक
+Code,Code,Código,شفرة,Importer,कोड
+Add New,Add New,Agregar nuevo,أضف جديد,Ajouter une langue,नया जोड़ो
+Import,Import,Importar,يستورد,Modifier la langue,आयात
+Add Languag,Add Languag,Agregar idioma,أضف لغة,Langue d'importation,भाषा जोड़ें
+Edit Language,Edit Language,Editar idioma,تحرير اللغة,Modèle par défaut,भाषा संपादित करें
+Import Language,Import Language,Idioma de importación,استيراد اللغة,Section Bannière d'accueil,भाषा आयात करें
+Default Template,Default Template,Plantilla predeterminada,القالب الافتراضي,Section Télécharger l'application,डिफ़ॉल्ट टेम्पलेट
+Home Banner Section,Home Banner Section,Sección de banner de inicio,قسم لافتة الصفحة الرئيسية,Section des meilleurs partenaires,होम बैनर अनुभाग
+Download App Section,Download App Section,Descargar sección de aplicaciones,تحميل قسم التطبيقات,Fonds publicitaire,ऐप अनुभाग डाउनलोड करें
+Top Partner Section,Top Partner Section,Sección superior de socios,قسم الشركاء الأعلى,Nous aidons les enfants à grandir correctement,शीर्ष भागीदार अनुभाग
+app Name,AdFund,Fondo publicitario,صندوق الإعلان,Le ton et éclaire le système du village universel rose comme pour lui un œil d'essai. de préavis ses associés.,ऐडफंड
+on Board Title,We help the kids to grow up in the right way,Ayudamos a los niños a crecer de la manera correcta.,نحن نساعد الأطفال على النمو بالطريقة الصحيحة,Commencer,हम बच्चों को सही तरीके से बड़ा होने में मदद करते हैं
+on Board Des,The tone and elucidates the of system the universal village pink like so to her a try eye. of notice his a associates.,El tono y aclara el sistema del pueblo universal rosa como tal para ella un ojo de prueba. de aviso sus asociados.,النغمة وتوضح نظام القرية العالمية الوردية مثل ذلك جربها بالعين. من إشعار شركائه.,"Commençons par l'inscription. Si vous avez déjà un compte, connectez-vous maintenant.",स्वर और व्यवस्था की व्याख्या करता है सार्वभौमिक गांव गुलाबी तो उसे एक कोशिश आंख की तरह। ध्यान दें कि उसके एक सहयोगी हैं।
+get Started,Get Started,Empezar,ابدأ,Se connecter,शुरू हो जाओ
+lets Start,"Let's start with signing up. If you already have an account, sign in now.","Comencemos por registrarnos. Si ya tienes una cuenta, inicia sesión ahora.",لنبدأ بالتسجيل. إذا كان لديك حساب بالفعل، قم بتسجيل الدخول الآن.,Paiement Paypal,"आइए साइन अप करके शुरुआत करें। यदि आपके पास पहले से ही एक खाता है, तो अभी साइन इन करें।"
+sign In,Sign In,Iniciar sesión,تسجيل الدخول,Onde Flutter,दाखिल करना
+paypal Payment,Paypal Payment,Pago Paypal,الدفع باي بال,S'inscrire,पेपैल भुगतान
+flutterwave,Flutterwave,Onda de aleteo,موجة الرفرفة,AUCUN événement pour l'instant,स्पंदन तरंग
+sing Up,Sign Up,Inscribirse,اشتراك,AUCUN examen pour l'instant,साइन अप करें
+no Events YEt,NO Events Yet,Aún no hay eventos,لا توجد أحداث حتى الآن,Écran de paiement Stripe,अभी तक कोई इवेंट नहीं
+no Review Yet,NO Review Yet,Aún no hay revisión,لا توجد مراجعة حتى الآن,Veuillez remplir le champ,अभी तक कोई समीक्षा नहीं
+stripe Payment Screen,Stripe Payment Screen,Pantalla de pago de rayas,شاشة الدفع الشريطية,Informations de connexion,स्ट्राइप भुगतान स्क्रीन
+please Fill Out The Field,Please fill out the field,Por favor complete el campo,يرجى ملء الحقل,Veuillez saisir votre nom d'utilisateur et votre mot de passe et vous connecter à votre compte pour accéder à votre tableau de bord.,कृपया फ़ील्ड भरें
+login Information,Login Information,Información de inicio de sesión,معلومات تسجيل الدخول,Nom d'utilisateur,लॉगिन जानकारी
+please Input Your Username,Please input your username and password and login to your account to get access to your dashboard.,Ingrese su nombre de usuario y contraseña e inicie sesión en su cuenta para obtener acceso a su panel de control.,يرجى إدخال اسم المستخدم وكلمة المرور الخاصة بك وتسجيل الدخول إلى حسابك لتتمكن من الوصول إلى لوحة التحكم الخاصة بك.,Mot de passe,कृपया अपना उपयोगकर्ता नाम और पासवर्ड दर्ज करें और अपने डैशबोर्ड तक पहुंच प्राप्त करने के लिए अपने खाते में लॉगिन करें।
+user Name,Username,Nombre de usuario,اسم المستخدم,Je n'ai pas de compte,उपयोगकर्ता नाम
+password,Password,Contraseña,كلمة المرور,Vous avez oublié votre mot de passe ?,पासवर्ड
+dont Have An Account,Don't have an account,No tienes una cuenta,ليس لديك حساب,Entrez votre email pour réinitialiser votre mot de passe,कोई खाता नहीं है
+forgot Your Password,Forgot your password?,¿Olvidaste tu contraseña?,نسيت كلمة السر؟,Entrez l'e-mail,अपना कूट शब्द भूल गए?
+enter Your Email,Enter your email to reset your password,Ingrese su correo electrónico para restablecer su contraseña,أدخل بريدك الإلكتروني لإعادة تعيين كلمة المرور الخاصة بك,Soumettre,अपना पासवर्ड रीसेट करने के लिए अपना ईमेल प्रविष्ट करें
+enter Email,Enter Email,Ingrese el correo electrónico,أدخل البريد الإلكتروني,Changer de langue,ईमेल दर्ज करें
+submit,Submit,Entregar,يُقدِّم,Soumettre maintenant,जमा करना
+change Language,Change Language,Cambiar idioma,تغيير اللغة,Montant total du don,भाषा बदलें
+submit Now,Submit Now,Enviar ahora,أرسل الآن,Montant collecté de tous les temps,अभी सबमिट करें
+total Donation,Total Donation Amount,Monto total de la donación,إجمالي مبلغ التبرع,Dernière histoire,कुल दान राशि
+all Time Raised,All Time Raised Amount,Monto recaudado todos los tiempos,المبلغ الذي تم رفعه في كل الأوقات,Portefeuille Klic2Help,सर्वकालिक जुटाई गई राशि
+latest History,Latest History,Historia más reciente,أحدث التاريخ,Écran d'aperçu,नवीनतम इतिहास
+klic2help Wallet,Klic2Help Wallet,Cartera Klic2Help,محفظة Klic2Help,Total des frais et charges,Klic2Help वॉलेट
+preview Screen,Preview Screen,Pantalla de vista previa,شاشة المعاينة,Confirmer,पूर्वावलोकन स्क्रीन
+total fee,Total Fees & Charges,Tarifas y cargos totales,إجمالي الرسوم والمصاريف,Votre argent a été ajouté avec succès !,कुल शुल्क एवं शुल्क
+confirm,Confirm,Confirmar,يتأكد,Annuler,पुष्टि करना
+your Money Has Been Successfully,Your money has been add successfully!,¡Tu dinero se ha agregado exitosamente!,تمت إضافة أموالك بنجاح!,Pas encore d'historique,आपका पैसा सफलतापूर्वक जोड़ दिया गया है!
+cancel,Cancel,Cancelar,يلغي,Le code de vérification,रद्द करना
+no History Yet,No History Yet,Aún no hay historia,لا يوجد تاريخ بعد,"Entrez le code de vérification que nous vous envoyons dans votre e-mail, pour réinitialiser votre mot de passe.",अभी तक कोई इतिहास नहीं
+verification Code,Verification Code,Código de verificación,رمز التحقق,Renvoyer le code,सत्यापन कोड
+oTP Verification SubTitle,"Enter the verification code which one we send you in your email, to reset your password.","Ingresa el código de verificación que te enviamos a tu correo electrónico, para restablecer tu contraseña.",أدخل رمز التحقق الذي أرسلناه إليك في بريدك الإلكتروني لإعادة تعيين كلمة المرور الخاصة بك.,Réinitialiser le mot de passe,अपना पासवर्ड रीसेट करने के लिए वह सत्यापन कोड दर्ज करें जो हम आपको आपके ईमेल पर भेजते हैं।
+resend Code,Resend Code,Reenviar código,إعادة إرسال الرمز,Félicitations!!,पुन: कोड भेजे
+reset Password,Reset Password,Restablecer contraseña,إعادة تعيين كلمة المرور,Votre mot de passe a été réinitialisé avec succès !,पासवर्ड रीसेट
+congratulations,Congratulations!!,¡¡Felicidades!!,مبروك!!,Votre compte a été vérifié avec succès,बधाई हो!!
+password Rest Successfully,Your password has been reset successfully!,¡Su contraseña se ha restablecido exitosamente!,لقد تم إعادة تعيين كلمة المرور الخاصة بك بنجاح!,Votre don a été envoyé avec succès !,आपका पासवर्ड सफलतापूर्वक रीसेट कर दिया गया है!
+account Verified Successfully,Your account has been verified successfully,Su cuenta ha sido verificada exitosamente,لقد تم التحقق من حسابك بنجاح,D'accord,आपका खाता सफलतापूर्वक सत्यापित हो गया है
+donation Successfully,Your donation has been send successfully!,¡Tu donación se ha enviado correctamente!,لقد تم إرسال تبرعك بنجاح!,S'inscrire,आपका दान सफलतापूर्वक भेज दिया गया है!
+okay,Okay,Bueno,تمام,Inscrivez-vous maintenant,ठीक है
+sign Up,Sign Up,Inscribirse,اشتراك,Informations d'inscription,साइन अप करें
+sign Up Now,Sign Up Now,Regístrate ahora,سجل الآن,Veuillez saisir vos coordonnées et vous inscrire à votre compte pour accéder à votre tableau de bord.,अभी साइनअप करें
+register Information,Registration Information,Información de registro,معلومات التسجيل,Prénom,पंजीकरण सूचना
+input Your Details,Please input your details and register to your account to get access to your dashboard.,Ingrese sus datos y regístrese en su cuenta para obtener acceso a su panel de control.,يرجى إدخال التفاصيل الخاصة بك والتسجيل في حسابك للوصول إلى لوحة التحكم الخاصة بك.,Nom de famille,कृपया अपने विवरण दर्ज करें और अपने डैशबोर्ड तक पहुंच प्राप्त करने के लिए अपने खाते में पंजीकरण करें।
+first Name,First Name,Nombre de pila,الاسم الأول,J'ai lu d'accord avec le,पहला नाम
+last Name,Last Name,Apellido,اسم العائلة,Politique de confidentialité et avertissement,उपनाम
+agree,I have read agreed with the,He leído de acuerdo con el,لقد قرأت الاتفاق مع,&,मैंने इससे सहमत होकर पढ़ा है
+privacy,Privacy Policy& Warning,Política de privacidad y advertencia,سياسة الخصوصية والتحذير,Vérification par e-mail,गोपनीयता नीति एवं चेतावनी
+and,&,&,&,"Entrez le code de vérification que nous vous envoyons dans votre e-mail, pour vérifier votre compte.",&
+email Verification,Email Verification,Verificación de correo electrónico,التحقق من البريد الإلكتروني,Se déconnecter,ईमेल सत्यापन
+email Verification SubTitle,"Enter the verification code which one we send you in your email, to verified your account.","Ingresa el código de verificación que te enviamos a tu correo electrónico, para verificar tu cuenta.",أدخل رمز التحقق الذي أرسلناه إليك في بريدك الإلكتروني للتحقق من حسابك.,"En Inde, vous pouvez donner aux pauvres... de l'eau potable et de la nourriture",अपना खाता सत्यापित करने के लिए वह सत्यापन कोड दर्ज करें जो हम आपको आपके ईमेल पर भेजते हैं।
+sign Out,Sign Out,Desconectar,تسجيل الخروج,Les sans-abri en Afrique,साइन आउट
+give Poor In India,You Can Give Poor In India... Clean Water & Food,Puedes dar a los pobres de la India... agua potable y alimentos,يمكنك التبرع للفقراء في الهند... المياه النظيفة والغذاء,Ce que disent les gens,आप भारत में गरीबों को साफ पानी और भोजन दे सकते हैं
+homeless People In Africa,Homeless People In Africa,Personas sin hogar en África,المشردون في أفريقيا,RASALINA WILLAMS,अफ़्रीका में बेघर लोग
+what People Say,What People Say,Lo que dice la gente,ما يقوله الناس,J'apprécie vos services incroyables et votre personnel professionnel pour tout votre travail acharné et votre pensée créative ! C'était génial et j'espère retravailler avec vous bientôt.,लोग क्या कहते हैं
+rasalina Willams,RASALINA WILLAMS,RASALINA WILLAMS,راسالينا ويليامز,Détails de la campagne,रसालिना विलियम्स
+people Say,"I appreciate your amazing services and professional staff for all your hard work and creative thinking! It was fub, and I hope to work with you again soon.",¡Aprecio sus increíbles servicios y personal profesional por todo su arduo trabajo y pensamiento creativo! Fue fantástico y espero volver a trabajar contigo pronto.,أنا أقدر خدماتك الرائعة وموظفيك المحترفين على كل ما تبذلونه من عمل شاق وتفكير إبداعي! لقد كان الأمر رائعًا، وآمل أن أعمل معك مرة أخرى قريبًا.,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vulputate vestibulum Phasellus rhoncus, dolor eget viverra pretium, dolor tellus aliquet nunc, vitae ultricies erat elit eu lacus. Vestibulum non justo consectetur, cursus ante, tincidunt sapien. Nulla quis diam sit amet turpis interdum accumsan quis nec enim. Vivamus faucibus ex sed nibh egestas elementum. Mauris et bibendum dui. Aenean consequat pulvinar luctus \n\nNous avons couvert de nombreux événements spéciaux tels que des feux d'artifice, des foires, des défilés, des courses, des promenades, des cérémonies de remise de prix, des défilés de mode, des événements sportifs et même un service commémoratif.\n\nLorem ipsum dolor sit amet, consectetur élite adipeuse. Curabitur vulputate vestibulum Phasellus rhoncus, dolor eget viverra pretium, dolor tellus aliquet nunc, vitae ultricies erat elit eu lacus. Vestibulum non justo consectetur, cursus ante, tincidunt sapien. Nulla quis diam sit amet turpis interdum accumsan quis nec enim. Vivamus faucibus ex sed nibh egestas elementum. Mauris et bibendum dui. Énéen conséquat pulvinar luctus. Suspendisse consectetur tristique tortor","मैं आपकी कड़ी मेहनत और रचनात्मक सोच के लिए आपकी अद्भुत सेवाओं और पेशेवर कर्मचारियों की सराहना करता हूं! यह शानदार था, और मुझे उम्मीद है कि मैं जल्द ही आपके साथ फिर से काम करूंगा।"
+campaign Details,Campaign Details,Detalles de la campaña,تفاصيل الحملة,"Nous avons couvert de nombreux événements spéciaux tels que des feux d'artifice, des foires, des défilés, des courses, des promenades, des cérémonies de remise de prix, des défilés de mode, des événements sportifs et même un service commémoratif.",अभियान विवरण
+lorem,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vulputate vestibulum Phasellus rhoncus, dolor eget viverra pretium, dolor tellus aliquet nunc, vitae ultricies erat elit eu lacus. Vestibulum non justo consectetur, cursus ante, tincidunt sapien. Nulla quis diam sit amet turpis interdum accumsan quis nec enim. Vivamus faucibus ex sed nibh egestas elementum. Mauris et bibendum dui. Aenean consequat pulvinar luctus \n\nWe have covered many special events such as fireworks, fairs, parades, races, walks, awards ceremonies, fashion shows, sporting events, and even a memorial service.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vulputate vestibulum Phasellus rhoncus, dolor eget viverra pretium, dolor tellus aliquet nunc, vitae ultricies erat elit eu lacus. Vestibulum non justo consectetur, cursus ante, tincidunt sapien. Nulla quis diam sit amet turpis interdum accumsan quis nec enim. Vivamus faucibus ex sed nibh egestas elementum. Mauris et bibendum dui. Aenean consequat pulvinar luctus. Suspendisse consectetur tristique tortor","Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vulputate vestibulum Phasellus rhoncus, dolor eget viverra pretium, dolor tellus aliquet nunc, vitae ultricies erat elit eu lacus. Vestibulum non justo consectetur, cursus ante, tincidunt sapien. Nulla quis diam sit amet turpis interdum accumsan quis nec enim. Vivamus faucibus ex sed nibh egetas elementum. Mauris et bibendum dui. Aenean consequat pulvinar luctus \n\nHemos cubierto muchos eventos especiales como fuegos artificiales, ferias, desfiles, carreras, caminatas, ceremonias de premios, desfiles de moda, eventos deportivos e incluso un servicio conmemorativo.\n\nLorem ipsum dolor sit amet, consectetur élite adipiscente. Curabitur vulputate vestibulum Phasellus rhoncus, dolor eget viverra pretium, dolor tellus aliquet nunc, vitae ultricies erat elit eu lacus. Vestibulum non justo consectetur, cursus ante, tincidunt sapien. Nulla quis diam sit amet turpis interdum accumsan quis nec enim. Vivamus faucibus ex sed nibh egetas elementum. Mauris et bibendum dui. Enean consequat pulvinar luctus. Suspendisse consectetur tristique tortor","لوريم إيبسوم دولور سيت أميت، consectetur adipiscing إيليت. Curabitur vulputate fistibulum Phasellus rhoncus، dolor eget viverra pretium، dolor Tellus aliquet nunc، vitae ultricies erit elit eu lacus. الدهليز غير عادل consectetur، cursus ante، tincidunt sapien. Nulla quis diam sit amet turpis interdum Accumsan quis nec enim. Vivamus faucibus ex sed nibh egestas elementum. موريس وبيبندوم دوي. Aenean consequat pulvinar luctus \n\nلقد قمنا بتغطية العديد من الأحداث الخاصة مثل الألعاب النارية، والمعارض، والمسيرات، والسباقات، والمشي، وحفلات توزيع الجوائز، وعروض الأزياء، والأحداث الرياضية، وحتى حفل تأبيني.\n\nLorem ipsum dolor sit amet, consectetur النخبة adipiscing. Curabitur vulputate fistibulum Phasellus rhoncus، dolor eget viverra pretium، dolor Tellus aliquet nunc، vitae ultricies erit elit eu lacus. الدهليز غير عادل consectetur، cursus ante، tincidunt sapien. Nulla quis diam sit amet turpis interdum Accumsan quis nec enim. Vivamus faucibus ex sed nibh egestas elementum. موريس وبيبندوم دوي. Aenean يترتب على pulvinar luctus. Suspendisse consectetur tristique tortor",Notre défi et notre objectif,"लोरेम इप्सम डोलर सिट अमेट, कंसेक्टेचर एडिपिसिंग एलीट। क्यूरबिटूर वल्पुटेट वेस्टिबुलम फासेलस रोन्कस, डोलर एगेट विवेरा प्रीटियम, डोलर टेलस एलिकेट नंक, विटे अल्ट्रासीज एराट एलीट ईयू लैकस। वेस्टिबुलम नॉन जस्टो कंसेक्टेचर, कर्सस एंटे, टिनसिडंट सेपियन। नुल्ला क्विस डायम सिट अमेट टरपिस इंटरडम एक्यूमसन क्विस नेक एनिम। विवामस फौसीबस एक्स सेड निभ एगस्टास एलिमेंटम। मौरिस एट बिबेंडम डुई। एनियन कॉन्सक्वेट पुल्विनर लैक्टस \n\nहमने आतिशबाजी, मेले, परेड, दौड़, सैर, पुरस्कार समारोह, फैशन शो, खेल आयोजन और यहां तक ​​​​कि एक स्मारक सेवा जैसे कई विशेष कार्यक्रमों को कवर किया है।\n\nलोरेम इप्सम डोलर सिट अमेट, कंसेक्टेचर वसायुक्त अभिजात वर्ग। क्यूरबिटूर वल्पुटेट वेस्टिबुलम फासेलस रोन्कस, डोलर एगेट विवेरा प्रीटियम, डोलर टेलस एलिकेट नंक, विटे अल्ट्रासीज एराट एलीट ईयू लैकस। वेस्टिबुलम नॉन जस्टो कंसेक्टेचर, कर्सस एंटे, टिनसिडंट सेपियन। नुल्ला क्विस डायम सिट अमेट टरपिस इंटरडम एक्यूमसन क्विस नेक एनिम। विवामस फौसीबस एक्स सेड निभ एगस्टास एलिमेंटम। मौरिस एट बिबेंडम डुई। एनीन कॉन्सक्वेट पुल्विनर लक्टस। सस्पेंडिस्से कंसेक्टेचर ट्रिस्टिक टॉर्टर"
+campaign Detail,"We have covered many special events such as fireworks, fairs, parades, races, walks, awards ceremonies, fashion shows, sporting events, and even a memorial service.","Hemos cubierto muchos eventos especiales como fuegos artificiales, ferias, desfiles, carreras, caminatas, ceremonias de premios, desfiles de moda, eventos deportivos e incluso un servicio conmemorativo.",لقد قمنا بتغطية العديد من الأحداث الخاصة مثل الألعاب النارية، والمعارض، والمسيرات، والسباقات، والمشي، وحفلات توزيع الجوائز، وعروض الأزياء، والأحداث الرياضية، وحتى حفل تأبين.,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vulputate vestibulum Phasellus rhoncus, dolor eget viverra pretium, dolor tellus aliquet nunc, vitae ultricies erat elit eu lacus. Vestibulum non justo consectetur, cursus ante, tincidunt sapien. Nulla quis diam sit amet turpis interdum accumsan quis nec enim. Vivamus faucibus ex sed nibh egestas elementum. Mauris et bibendum dui. Aenean consequat pulvinar luctusNous avons couvert de nombreux événements spéciaux tels que des feux d'artifice, des foires, des défilés, des courses, des promenades, des cérémonies de remise de prix, des défilés de mode, des événements sportifs et même un service commémoratif.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vulputate vestibulum Phasellus rhoncus, dolor eget viverra pretium, dolor tellus aliquet nunc, vitae ultricies erat elit eu lacus. Vestibulum non justo consectetur, cursus ante, tincidunt sapien. Nulla quis diam sit amet turpis interdum accumsan quis nec enim. Vivamus faucibus ex sed nibh egestas elementum. Mauris et bibendum dui. Énéen conséquat pulvinar luctus. Suspendisse consectetur tristique tortor","हमने आतिशबाजी, मेले, परेड, दौड़, सैर, पुरस्कार समारोह, फैशन शो, खेल आयोजन और यहां तक ​​कि एक स्मारक सेवा जैसे कई विशेष आयोजनों को कवर किया है।"
+our Challenge And Goal,Our Challenge & Goal,Nuestro desafío y objetivo,التحدي والهدف لدينا,Description de la campagne,हमारी चुनौती और लक्ष्य
+our Challenge And Goal Details,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vulputate vestibulum Phasellus rhoncus, dolor eget viverra pretium, dolor tellus aliquet nunc, vitae ultricies erat elit eu lacus. Vestibulum non justo consectetur, cursus ante, tincidunt sapien. Nulla quis diam sit amet turpis interdum accumsan quis nec enim. Vivamus faucibus ex sed nibh egestas elementum. Mauris et bibendum dui. Aenean consequat pulvinar luctusWe have covered many special events such as fireworks, fairs, parades, races, walks, awards ceremonies, fashion shows, sporting events, and even a memorial service.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vulputate vestibulum Phasellus rhoncus, dolor eget viverra pretium, dolor tellus aliquet nunc, vitae ultricies erat elit eu lacus. Vestibulum non justo consectetur, cursus ante, tincidunt sapien. Nulla quis diam sit amet turpis interdum accumsan quis nec enim. Vivamus faucibus ex sed nibh egestas elementum. Mauris et bibendum dui. Aenean consequat pulvinar luctus. Suspendisse consectetur tristique tortor","Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vulputate vestibulum Phasellus rhoncus, dolor eget viverra pretium, dolor tellus aliquet nunc, vitae ultricies erat elit eu lacus. Vestibulum non justo consectetur, cursus ante, tincidunt sapien. Nulla quis diam sit amet turpis interdum accumsan quis nec enim. Vivamus faucibus ex sed nibh egetas elementum. Mauris et bibendum dui. Aenean consequat pulvinar luctus Hemos cubierto muchos eventos especiales como fuegos artificiales, ferias, desfiles, carreras, caminatas, ceremonias de premiación, desfiles de moda, eventos deportivos e incluso un servicio conmemorativo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vulputate vestibulum Phasellus rhoncus, dolor eget viverra pretium, dolor tellus aliquet nunc, vitae ultricies erat elit eu lacus. Vestibulum non justo consectetur, cursus ante, tincidunt sapien. Nulla quis diam sit amet turpis interdum accumsan quis nec enim. Vivamus faucibus ex sed nibh egetas elementum. Mauris et bibendum dui. Enean consequat pulvinar luctus. Suspendisse consectetur tristique tortor",لوريم إيبسوم دولور سيت أميت، consectetur adipiscing إيليت. Curabitur vulputate fistibulum Phasellus rhoncus، dolor eget viverra pretium، dolor Tellus aliquet nunc، vitae ultricies erit elit eu lacus. الدهليز غير عادل consectetur، cursus ante، tincidunt sapien. Nulla quis diam sit amet turpis interdum Accumsan quis nec enim. Vivamus faucibus ex sed nibh egestas elementum. موريس وبيبندوم دوي. Aenean consequat pulvinar luctusلقد قمنا بتغطية العديد من الأحداث الخاصة مثل الألعاب النارية والمعارض والمسيرات والسباقات والمشي وحفلات توزيع الجوائز وعروض الأزياء والأحداث الرياضية وحتى الخدمة التذكارية.Lorem ipsum dolor sit amet، consectetur adipiscing elit. Curabitur vulputate fistibulum Phasellus rhoncus، dolor eget viverra pretium، dolor Tellus aliquet nunc، vitae ultricies erit elit eu lacus. الدهليز غير عادل consectetur، cursus ante، tincidunt sapien. Nulla quis diam sit amet turpis interdum Accumsan quis nec enim. Vivamus faucibus ex sed nibh egestas elementum. موريس وبيبندوم دوي. Aenean يترتب على pulvinar luctus. Suspendisse consectetur tristique tortor,Sélectionnez le montant,"लोरेम इप्सम डोलर सिट अमेट, कंसेक्टेचर एडिपिसिंग एलीट। क्यूरबिटूर वल्पुटेट वेस्टिबुलम फासेलस रोन्कस, डोलर एगेट विवेरा प्रीटियम, डोलर टेलस एलिकेट नंक, विटे अल्ट्रासीज एराट एलीट ईयू लैकस। वेस्टिबुलम नॉन जस्टो कंसेक्टेचर, कर्सस एंटे, टिनसिडंट सेपियन। नुल्ला क्विस डायम सिट अमेट टरपिस इंटरडम एक्यूमसन क्विस नेक एनिम। विवामस फौसीबस एक्स सेड निभ एगस्टास एलिमेंटम। मौरिस एट बिबेंडम डुई। एनियन कॉन्सक्वेट पुल्विनर लेक्टसहमने आतिशबाजी, मेले, परेड, दौड़, सैर, पुरस्कार समारोह, फैशन शो, खेल आयोजन और यहां तक ​​कि एक स्मारक सेवा जैसे कई विशेष कार्यक्रमों को कवर किया है। लोरेम इप्सम डोलर सिट अमेट, कंसेक्टेचर एडिपिसिंग एलीट। क्यूरबिटूर वल्पुटेट वेस्टिबुलम फासेलस रोन्कस, डोलर एगेट विवेरा प्रीटियम, डोलर टेलस एलिकेट नंक, विटे अल्ट्रासीज एराट एलीट ईयू लैकस। वेस्टिबुलम नॉन जस्टो कंसेक्टेचर, कर्सस एंटे, टिनसिडंट सेपियन। नुल्ला क्विस डायम सिट अमेट टरपिस इंटरडम एक्यूमसन क्विस नेक एनिम। विवामस फौसीबस एक्स सेड निभ एगस्टास एलिमेंटम। मौरिस एट बिबेंडम डुई। एनीन कॉन्सक्वेट पुल्विनर लक्टस। सस्पेंडिस्से कंसेक्टेचर ट्रिस्टिक टॉर्टर"
+campaign Description,Campaign Description,Descripción de la campaña,وصف الحملة,Entrez le montant,अभियान विवरण
+select Amount,Select Amount,Seleccionar cantidad,حدد المبلغ,(Facultatif),राशि चुनें
+enter Amount,Enter Amount,Ingrese el monto,أدخل المبلغ,Autre montant...,राशि डालें
+optional,(Optional),(Opcional),(خياري),Faire un don mensuel,(वैकल्पिक)
+other Amount,Other amount...,Otra cantidad...,مبلغ آخر...,Sélectionnez la passerelle,अन्य राशि...
+monthly Donate,Monthly Donate,Donación mensual,التبرع الشهري,Paypal,मासिक दान करें
+Select Gateway,Select Gateway,Seleccionar puerta de enlace,حدد البوابة,Visa/MasterCard,गेटवे चुनें
+paypal,Paypal,PayPal,باي بال,Adresse email,Paypal
+master Card,Visa / MasterCard,Visa/MasterCard,فيزا / ماستركارد,Numéro de carte,वीज़ा/मास्टरकार्ड
+email Address,Email Address,Dirección de correo electrónico,عنوان البريد الإلكتروني,Entrez le numéro de la carte,मेल पता
+card Number,Card Number,Número de tarjeta,رقم البطاقة,Date d'expiration,कार्ड संख्या
+enter Card Number,Enter card number,Introduce el número de tarjeta,أدخل رقم البطاقة,CVC/CVV,कार्ड नंबर दर्ज करें
+expiry Date,Expiry Date,Fecha de vencimiento,تاريخ انتهاء الصلاحية,Entrer,समाप्ति तिथि
+cvc,CVC/CVV,CVC/CVV,كفك/كفف,MM/AAAA,सीवीसी/सीवीवी
+enter,Enter,Ingresar,يدخل,Cris Ronaldo,प्रवेश करना
+date Formate,MM/YYYY,MM/AAAA,مم/سسسس,crironaldo@gmail.com,MM/YYYY
+users,Crish Ronaldo,cris ronaldo,كراش رونالدو,politique de confidentialité,क्रिश रोनाल्डो
+user Gmail,crisronaldo@gmail.com,crisronaldo@gmail.com,Crisronaldo@gmail.com,"Conditions d'utilisation,",crisronaldo@gmail.com
+privacy Policy,Privacy Policy,política de privacidad,سياسة الخصوصية,Faire un don d'histoire,गोपनीयता नीति
+terms Off Use,"Terms of Use,","Condiciones de uso,",شروط الاستخدام،,Détails de l'événement,"उपयोग की शर्तें,"
+donate History,Donate History,Historial de donaciones,تبرع بالتاريخ,Profil,इतिहास दान करें
+events Details,Event Details,Detalles del evento,تفاصيل الحدث,Modifier le profil,घटना विवरण
+profile,Profile,Perfil,حساب تعريفي,Collectez un don pour l'école et l'hôpital du Soudan,प्रोफ़ाइल
+edit Profile,Edit Profile,Editar perfil,تحرير الملف الشخصي,Veuillez saisir vos coordonnées et vous inscrire à votre compte pour accéder à votre tableau de bord.,प्रोफ़ाइल संपादित करें
+collect Donation,Collect Donation For Sudan's School & Hospital,Recaude donaciones para la escuela y el hospital de Sudán,جمع التبرعات لمدرسة ومستشفى السودان,"Aidez les pauvres, donnez de la nourriture et prenez soin d’un enfant africain",सूडान के स्कूल और अस्पताल के लिए दान एकत्र करें
+we Help,Please input your details and register to your account to get access to your dashboard.,Ingrese sus datos y regístrese en su cuenta para obtener acceso a su panel de control.,يرجى إدخال التفاصيل الخاصة بك والتسجيل في حسابك للوصول إلى لوحة التحكم الخاصة بك.,Charité,कृपया अपने विवरण दर्ज करें और अपने डैशबोर्ड तक पहुंच प्राप्त करने के लिए अपने खाते में पंजीकरण करें।
+help Poor People,"Help Poor People, Give Food & Caring African Child","Ayude a los pobres, brinde alimentos y cuide a los niños africanos",ساعد الفقراء، وقدم الطعام ورعاية الطفل الأفريقي,Donation,"गरीब लोगों की मदद करें, भोजन दें और अफ़्रीकी बच्चे की देखभाल करें"
+charity,Charity,Caridad,صدقة,Trousse médicale et d'aide,दान
+donation,Donation,Donación,هبة,Nourriture et eau,दान
+medical Aid Kit,Medical & Aid Kit,Botiquín médico y de ayuda,طقم طبي ومساعدات,Aider les sans-abri,चिकित्सा एवं सहायता किट
+food And Water,Food and Water,Comida y agua,الغذاء والماء,Éducation,भोजन और पानी
+help Homeless People,Help Homeless People,Ayudar a las personas sin hogar,مساعدة المشردين,Santé,बेघर लोगों की मदद करें
+education,Education,Educación,تعليم,"Il existe de nombreuses variantes de passages du Lorem Ipsum, mais la majorité ont subi une altération ou un mot aléatoire. Mais la majorité a subi une altération ou un mot aléatoire.",शिक्षा
+health,Health,Salud,صحة,Les étudiants prennent l'initiative d'aider les enfants,स्वास्थ्य
+variations,"There are many variations of passages of Lorem Ipsum, but the majority have suffered alteration,or randomised word.but the majority have suffered alteration,or randomised word.but the majority have suffered alteration,or randomised word","Hay muchas variaciones de pasajes de Lorem Ipsum, pero la mayoría ha sufrido alteración o palabra aleatoria. pero la mayoría ha sufrido alteración o palabra aleatoria. pero la mayoría ha sufrido alteración o palabra aleatoria",هناك العديد من الاختلافات لنصوص لوريم إيبسوم، لكن الأغلبية تعرضت للتعديل، أو الكلمة العشوائية. لكن الأغلبية تعرضت للتعديل، أو الكلمة العشوائية. لكن الأغلبية تعرضت للتعديل، أو الكلمة العشوائية,Ce qu'il faut savoir sur la crise alimentaire,"लोरेम इप्सम के अंशों के कई रूप हैं, लेकिन अधिकांश को परिवर्तन, या यादृच्छिक शब्द का सामना करना पड़ा है। लेकिन अधिकांश को परिवर्तन, या यादृच्छिक शब्द का सामना करना पड़ा है। लेकिन अधिकांश को परिवर्तन, या यादृच्छिक शब्द का सामना करना पड़ा है"
+students Take,Students take the initiative to help children,Los estudiantes toman la iniciativa para ayudar a los niños.,يأخذ الطلاب زمام المبادرة لمساعدة الأطفال,La bonne ligne directrice pour faire un don pour les sans-abri,बच्चों की मदद के लिए छात्र आगे आएं
+food Crisis,What you need to know about the food crisis,Lo que necesitas saber sobre la crisis alimentaria,ما تحتاج لمعرفته حول أزمة الغذاء,Merci de nous faire un don. Nous apprécions vraiment votre don.,खाद्य संकट के बारे में आपको क्या जानने की आवश्यकता है
+the Right Guideline,The right guideline to donate for homeless people,La pauta correcta para donar para personas sin hogar,المبدأ التوجيهي الصحيح للتبرع للمشردين,À propos de nous,बेघर लोगों के लिए दान करने का सही दिशानिर्देश
+thanks For Donate,Thanks for Donate us. We are really appreciate your Donation.,Gracias por donarnos. Realmente apreciamos su donación.,شكرا للتبرع لنا. نحن نقدر حقًا تبرعك.,Ancien mot de passe,हमें दान देने के लिए धन्यवाद. हम वास्तव में आपके दान की सराहना करते हैं।
+about US,About US,Sobre nosotros,معلومات عنا,Entrez l'ancien mot de passe,हमारे बारे में
+old Password,Old Password,Contraseña anterior,كلمة المرور القديمة,Entrez un nouveau mot de passe,पुराना पासवर्ड
+enter Old Password,Enter Old Password,Ingrese la contraseña anterior,أدخل كلمة المرور القديمة,Entrez Confirmer le mot de passe,पुराना पासवर्ड डालें
+enter New Password,Enter New Password,Ingrese una nueva contraseña,أدخل كلمة المرور الجديدة,Sauvegarder,नया पासवर्ड दर्ज करें
+enter Confirm Password,Enter Confirm Password,Ingrese Confirmar Contraseña,أدخل تأكيد كلمة المرور,Nom du titulaire de la carte,पासवर्ड की पुष्टि करें दर्ज करें
+save,Save,Ahorrar,يحفظ,Payez maintenant,बचाना
+card Holder Name,Card Holder Name,Nombre del titular de la tarjeta,اسم حامل البطاقة,Ce que disent les gens,कार्डधारक का नाम
+pay Now,Pay Now,Paga ahora,ادفع الآن,Voir plus,अब भुगतान करें
+whay People Say,What People Say,Lo que dice la gente,ما يقوله الناس,Continuer en tant qu'invité,लोग क्या कहते हैं
+view More,View More,Ver más,عرض المزيد,Vous n'avez pas de compte ?,और देखें
+continue As A Guest,Continue as a Guest,Continuar como invitado,الاستمرار كضيف,Renvoyer le code dans,अतिथि के रूप में जारी रखें
+dont Have An Accoun,Don’t Have An Account?,¿No tienes una cuenta?,ليس لديك حساب؟,Nom,क्या आपके पास खाता नहीं है?
+resend Code In,Resend Code in,Reenviar código en,إعادة إرسال الرمز في,Téléphone,कोड पुनः भेजें
+label Name,Name,Nombre,اسم,e-mail,नाम
+label Phone,Phone,Teléfono,هاتف,E-mail,फ़ोन
+field Email,email,correo electrónico,بريد إلكتروني,Qu'avons-nous fait avec votre aide,ईमेल
+label Email,Email,Correo electrónico,بريد إلكتروني,10,ईमेल
+what Have,What have we done with your help,¿Qué hemos hecho con tu ayuda?,ماذا فعلنا بمساعدتكم,20,आपकी मदद से हमने क्या किया है
+ten,10,10,10,Gérer toutes les activités de notre fondation,10
+twenty,20,20,20,"Vestibulum ante ipsum primis dans faucibus orci luctus et ultrices posuere cubilia Curae ; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Masse sapien présente.",20
+manage,Manage all activities from our foundation,Gestionar todas las actividades desde nuestra fundación.,إدارة جميع الأنشطة من مؤسستنا,Ajouter des détails financiers pour,हमारे फाउंडेशन से सभी गतिविधियों का प्रबंधन करें
+vestibulum,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Praesent sapien massa.","Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Praesent masa sapiens.",الدهليز قبل ipsum primis في faucibus orci luctus et ultrices posuere cubilia Curae؛ Donec velit neque، auctor sit amet aliquam vel، ullamcorper sit amet ligula. لقد حان وقت العلاج، وهو أمر ضروري ومفيد، ومنفذ إلى حد ما. برايسينت سابين ماسا.,Informations linguistiques,"वेस्टिबुलम एंटे इप्सम प्राइमिस इन फौसीबस ऑर्सी लक्टस एट अल्ट्रिसेस पोसुएरे क्यूबिलिया क्यूरे; डोनेक वेलिट नेक, ऑक्टर सिट अमेट एलिक्वम वेल, उल्लमकॉर्पर सिट अमेट लिगुला। क्यूरबिटूर आर्कू एराट, एक्यूमसन आईडी इम्पर्डिएट एट, पोर्टिटर एट सेम। प्रेजेंट सेपियन मस्सा."
+Add money details for,Add money details for,Agregar detalles de dinero para,إضافة تفاصيل المال ل,Ajouter de l'argent automatiquement,के लिए धन विवरण जोड़ें
+Language Information,Language Information,Información de idioma,معلومات اللغة,Ajouter de l'argent manuellement,भाषा संबंधी जानकारी
+Automatic Add Money,Automatic Add Money,Agregar dinero automáticamente,إضافة الأموال تلقائيًا,Ajouter de l'argent automatiquement,स्वचालित धन जोड़ें
+Manual Add Money,Manual Add Money,Agregar dinero manualmente,دليل إضافة المال,Ajouter de l'argent manuellement Modifier,मैनुअल पैसे जोड़ें
+Automatic Add Money Edit,Automatic Add Money Edit,Agregar dinero automáticamente Editar,تحرير إضافة الأموال تلقائيًا,Profil d'administrateur,स्वचालित धन जोड़ें संपादन
+Manual Add Money Edit,Manual Add Money Edit,Agregar dinero manualmente Editar,تحرير إضافة الأموال يدويًا,Changement de mot de passe,मैन्युअल रूप से धन जोड़ें संपादित करें
+Admin Profile,Admin Profile,Perfil de administrador,الملف الشخصي للمسؤول,Notification de configuration,व्यवस्थापक प्रोफ़ाइल
+Password Change,Password Change,Cambio de contraseña,تغيير كلمة المرور,Envoyer une notification,पासवर्ड बदलें
+Setup Notification,Setup Notification,Notificación de configuración,إشعار الإعداد,Informations sur le serveur,सेटअप अधिसूचना
+Send Notification,Send Notification,Enviar notificación,إرسال الإخطار,Type de catégorie de configuration,अधिसूचना भेजें
+Server Information,Server Information,Información del servidor,معلومات الخادم,Tous les billets,सर्वर जानकारी
+Setup Category Type,Setup Category Type,Tipo de categoría de configuración,نوع فئة الإعداد,Billet en attente,सेटअप श्रेणी प्रकार
+All Ticket,All Ticket,Todos los boletos,جميع التذاكر,FAQ de configuration,सभी टिकट
+Pending Ticket,Pending Ticket,Boleto pendiente,تذكرة معلقة,Billet actif,लंबित टिकट
+Setup FAQ,Setup FAQ,Preguntas frecuentes sobre la configuración,الأسئلة الشائعة حول الإعداد,Billet résolu,सेटअप अक्सर पूछे जाने वाले प्रश्न
+Active Ticket,Active Ticket,Boleto Activo,تذكرة نشطة,Chat d'assistance,सक्रिय टिकट
+Solved Ticket,Solved Ticket,Boleto resuelto,تذكرة محلولة,Journaux de courrier électronique des utilisateurs,हल टिकट
+Support Chat,Support Chat,Chat de soporte,دعم الدردشة,Lien utile Modifier,समर्थन चैट
+User Email Logs,User Email Logs,Registros de correo electrónico del usuario,سجلات البريد الإلكتروني للمستخدم,Paiement Stripe,उपयोगकर्ता ईमेल लॉग
+Useful Link Edit,Useful Link Edit,Enlace útil Editar,تعديل الرابط المفيد,Paiement manuel,उपयोगी लिंक संपादित करें
+Stripe Payment,Stripe Payment,Pago de franjas,الدفع الشريطي,Demander de l'argent,धारी भुगतान
+Manual Payment,Manual Payment,Pago Manual,الدفع اليدوي,Retirer le journal,मैन्युअल भुगतान
+Request Moneny,Request Moneny,Solicitar dinero,طلب المال,Échange d'argent,पैसे का अनुरोध करें
+Withdraw Log,Withdraw Log,Retirar registro,سجل السحب,Billets d'assistance,लॉग वापस लें
+Money Exchange,Money Exchange,Cambio de dinero,صرف العملات,Ajouter un nouveau billet,मुद्रा विनिमय
+Support Tickets,Support Tickets,Boletos de soporte,تذاكر الدعم,Conversation,समर्थन टिकट
+Add New Ticket,Add New Ticket,Agregar nuevo boleto,إضافة تذكرة جديدة,Connexion utilisateur,नया टिकट जोड़ें
+Conversation,Conversation,Conversación,محادثة,Portefeuille AdFund,बातचीत
+User Login,User Login,Inicio de sesión de usuario,تسجيل دخول المستخدم,Total des frais et charges,उपयोगकर्ता लॉगिन
+adfund Wallet,AdFund Wallet,Monedero AdFund,محفظة AdFund,Montant total à payer,ऐडफंड वॉलेट
+totalfee,Total Fees & Charges,Tarifas y cargos totales,إجمالي الرسوم والمصاريف,Vous n'avez pas de compte ?,कुल शुल्क एवं शुल्क
+total Payable,Total Payable Amount,Monto total a pagar,إجمالي المبلغ المستحق,"Entrez le code de vérification que nous vous envoyons dans votre e-mail, pour réinitialiser votre mot de passe.",कुल देय राशि
+don THave Account,Don't Have An Account?,¿No tienes una cuenta?,ليس لديك حساب؟,Catégories,कोई खाता नहीं है?
+otp Verification Sub Title,"Enter the verification code which one we send you in your email, to reset your password.","Ingresa el código de verificación que te enviamos a tu correo electrónico, para restablecer tu contraseña.",أدخل رمز التحقق الذي أرسلناه إليك في بريدك الإلكتروني لإعادة تعيين كلمة المرور الخاصة بك.,FAQ,अपना पासवर्ड रीसेट करने के लिए वह सत्यापन कोड दर्ज करें जो हम आपको आपके ईमेल पर भेजते हैं।
+Categories,Categories,Categorías,فئات,Votre email,श्रेणियाँ
+FAQ,FAQ,Preguntas frecuentes,التعليمات,Votre email ajouté à notre newsletter,अक्सर पूछे जाने वाले प्रश्न
+Your email,Your email,Tu correo electrónico,البريد الإلكتروني الخاص بك,Votre message soumis,आपका ईमेल
+Your email added to our newsletter,Your email added to our newsletter,Su correo electrónico agregado a nuestro boletín,تمت إضافة بريدك الإلكتروني إلى نشرتنا الإخبارية,Cookie autorisé avec succès,आपका ईमेल हमारे न्यूज़लेटर में जोड़ा गया
+Your message submitted,Your message submitted,Su mensaje enviado,تم إرسال رسالتك,Refus des cookies avec succès,आपका संदेश सबमिट हो गया
+Cookie allow successfully,Cookie allow successfully,Cookie permitida exitosamente,تم السماح بملف تعريف الارتباط بنجاح,Oups ! Langue introuvable,कुकी सफलतापूर्वक अनुमति देती है
+Cookie decline successfully,Cookie decline successfully,Rechazo de cookies exitoso,تم رفض ملف تعريف الارتباط بنجاح,Échec de la transaction. L'enregistrement n'a pas été enregistré correctement. Veuillez réessayer,कुकी सफलतापूर्वक अस्वीकार हो गई
+Oops! Language not found,Oops! Language not found,¡Ups! Idioma no encontrado,أُووبس! لم يتم العثور على اللغة,Argent ajouté avec succès,उफ़! भाषा नहीं मिली
+Transaction Failed. Record didn't saved properly. Please try again,Transaction Failed. Record didn't saved properly. Please try again,La transacción falló. El registro no se guardó correctamente. Por favor inténtalo de nuevo,فشلت الصفقة. لم يتم حفظ السجل بشكل صحيح. يرجى المحاولة مرة أخرى,Don réussi,लेन - देन विफल। रिकॉर्ड ठीक से सहेजा नहीं गया. कृपया पुन: प्रयास करें
+Successfully added money,Successfully added money,Dinero agregado exitosamente,تمت إضافة الأموال بنجاح,"Paiement réussi, veuillez revenir sur votre application",सफलतापूर्वक पैसा जोड़ा गया
+Successfully Donation,Successfully donation,Donación exitosa,تم التبرع بنجاح,"Échec du paiement, veuillez contacter le propriétaire",सफलतापूर्वक दान
+"Payment Successful, Please Go Back Your App","Payment Successful, Please Go Back Your App","Pago exitoso, regrese a su aplicación",تم الدفع بنجاح، يرجى الرجوع إلى تطبيقك,Nous n'avons pas besoin de plus de dons pour cette campagne,"भुगतान सफल, कृपया अपना ऐप वापस लें"
+"Payment Failed,Please Contact With Owner","Payment Failed,Please Contact With Owner","Pago fallido, comuníquese con el propietario",فشل الدفع الرجاء التواصل مع المالك,Un utilisateur non authentifié ne peut pas faire de don avec,"भुगतान विफल, कृपया स्वामी से संपर्क करें"
+We do not need more donation for this campaign,We do not need more donation for this campaign,No necesitamos más donación para esta campaña.,لا نحتاج للمزيد من التبرعات لهذه الحملة,Solde de votre portefeuille insuffisant,हमें इस अभियान के लिए अधिक दान की आवश्यकता नहीं है.'
+Unauthenticated User Can Not Donation With,Unauthenticated User Can Not Donation With,El usuario no autenticado no puede realizar donaciones,لا يمكن للمستخدم غير المصادق التبرع به,Don annulé,अप्रामाणिक उपयोगकर्ता दान नहीं कर सकता
+Insufficient your wallet balance,Insufficient your wallet balance,Saldo insuficiente de tu billetera,عدم كفاية رصيد محفظتك,La transaction a échoué,आपके बटुए का शेष अपर्याप्त है
+Donation cancelled,Donation cancelled,Donación cancelada,تم إلغاء التبرع,Nous avons juste besoin,दान रद्द कर दिया गया
+Transaction failed,Transaction failed,La transacción falló,فشلت المعاملة,Le hachage de la transaction est requis pour la vérification,लेन - देन विफल
+We need just,We need just,solo necesitamos,نحتاج فقط,Le hachage de la transaction n'est pas valide ! Veuillez saisir un hachage valide,हमें बस चाहिए
+Transaction hash is required for verify,Transaction hash is required for verify,Se requiere hash de transacción para verificar,تجزئة المعاملة مطلوبة للتحقق,Quantité ajoutée insuffisante. Veuillez contacter l'administrateur système,सत्यापन के लिए लेनदेन हैश आवश्यक है
+Transaction hash is not valid! Please input a valid hash,Transaction hash is not valid! Please input a valid hash,¡El hash de transacción no es válido! Por favor ingresa un hash válido,تجزئة المعاملة غير صالحة! الرجاء إدخال تجزئة صالحة,Quelque chose s'est mal passé ! Veuillez réessayer,लेनदेन हैश मान्य नहीं है! कृपया एक वैध हैश इनपुट करें
+Insufficient amount added. Please contact with system administrator,Insufficient amount added. Please contact with system administrator,Cantidad insuficiente agregada. Por favor contacte con el administrador del sistema,تمت إضافة كمية غير كافية. يرجى الاتصال بمسؤول النظام,Votre compte email est activé ! Vous pouvez vous connecter maintenant et mettre à jour vos informations nécessaires pour télécharger le produit,अपर्याप्त राशि जोड़ी गई. कृपया सिस्टम प्रशासक से संपर्क करें
+Something went wrong! Please try again,Something went wrong! Please try again,¡Algo salió mal! Por favor inténtalo de nuevo,حدث خطأ ما! يرجى المحاولة مرة أخرى,"Votre compte n'est pas activé, vérifiez la boîte de réception/spam",कुछ गलत हो गया! कृपया पुन: प्रयास करें
+Your email account is activated! You can login now and update your necessary information to upload product,Your email account is activated! You can login now and update your necessary information to upload product,¡Tu cuenta de correo electrónico está activada! Puede iniciar sesión ahora y actualizar la información necesaria para cargar el producto.,تم تفعيل حساب البريد الإلكتروني الخاص بك! يمكنك تسجيل الدخول الآن وتحديث معلوماتك الضرورية لتحميل المنتج,L'adresse e-mail et le mot de passe sont erronés,आपका ईमेल खाता सक्रिय है! अब आप लॉगिन कर सकते हैं और उत्पाद अपलोड करने के लिए अपनी आवश्यक जानकारी अपडेट कर सकते हैं
+Your account is not activated check mail inbox/spam,Your account is not activated check mail inbox/spam,Tu cuenta no está activada revisa tu bandeja de entrada/spam,لم يتم تنشيط حسابك، تحقق من البريد الوارد/البريد العشوائي,Inscription réussie,"आपका खाता सक्रिय नहीं है, मेल इनबॉक्स/स्पैम जांचें"
+Email-Address And Password Are Wrong,Email-Address And Password Are Wrong,La dirección de correo electrónico y la contraseña son incorrectas,عنوان البريد الإلكتروني وكلمة المرور خاطئان,Impossible d'enregistrer cette action,ईमेल-पता और पासवर्ड ग़लत हैं
+Registration successful,Registration successful,Registro exitoso,تم التسجيل بنجاح,Votre compte email est déjà activé ! Veuillez vous connecter,सफल पंजीकरण
+Unable to save this action,Unable to save this action,No se puede guardar esta acción,غير قادر على حفظ هذا الإجراء,Veuillez vérifier la boîte de réception des e-mails/spam,इस क्रिया को सहेजने में असमर्थ
+Your email account is already activated! Please login,Your email account is already activated! Please login,¡Tu cuenta de correo electrónico ya está activada! Por favor inicia sesión,لقد تم تفعيل حساب بريدك الإلكتروني بالفعل! الرجاء تسجيل الدخول,Code introuvable,आपका ईमेल खाता पहले से ही सक्रिय है! कृपया लॉगिन करें
+Please check email inbox/spam,Please check email inbox/spam,Por favor revisa la bandeja de entrada/spam del correo electrónico.,يرجى التحقق من صندوق البريد الإلكتروني/البريد العشوائي,"Mot de passe modifié avec succès, connexion s'il vous plaît",कृपया ईमेल इनबॉक्स/स्पैम जांचें
+Code not found,Code not found,Código no encontrado,لم يتم العثور على الرمز,"Quoi que vous cherchiez, cherchez ailleurs",कोड नहीं मिला
+Password Changed successfully login please,Password Changed successfully login please,Contraseña cambiada exitosamente inicie sesión por favor,تم تغيير كلمة المرور بنجاح قم بتسجيل الدخول من فضلك,Oups ! Échec du téléchargement de la pièce jointe. Veuillez réessayer,"पासवर्ड सफलतापूर्वक बदल गया, कृपया लॉगिन करें"
+"Whatever you were looking for, look somewhere else","Whatever you were looking for, look somewhere else","Lo que sea que estuvieras buscando, busca en otro lado",كل ما كنت تبحث عنه، ابحث في مكان آخر,Ticket d'assistance créé avec succès,"आप जो भी खोज रहे थे, उसे कहीं और देखें"
+Opps! Failed to upload attachment. Please try again,Opps! Failed to upload attachment. Please try again,¡Ups! No se pudo cargar el archivo adjunto. Por favor inténtalo de nuevo,انتبه! فشل تحميل المرفق. يرجى المحاولة مرة أخرى,Ce ticket d'assistance est fermé,उफ़! अनुलग्नक अपलोड करने में विफल. कृपया पुन: प्रयास करें
+Support ticket created successfully,Support ticket created successfully,Ticket de soporte creado exitosamente,تم إنشاء تذكرة الدعم بنجاح,L'envoi du SMS a échoué ! Veuillez réessayer,समर्थन टिकट सफलतापूर्वक बनाया गया
+This support ticket is closed,This support ticket is closed,Este ticket de soporte está cerrado.,تم إغلاق تذكرة الدعم هذه,Le nouveau mot de passe et la confirmation du mot de passe ne sont pas les mêmes,यह समर्थन टिकट बंद है
+SMS Sending failed! Please try again,SMS Sending failed! Please try again,¡Error al enviar SMS! Por favor inténtalo de nuevo,فشل إرسال الرسائل القصيرة! يرجى المحاولة مرة أخرى,Mot de passe non mis à jour,एसएमएस भेजना विफल! कृपया पुन: प्रयास करें
+New password & confirm password is not same,New password & confirm password is not same,La nueva contraseña y la confirmación de contraseña no son las mismas,كلمة المرور الجديدة وتأكيد كلمة المرور ليسا نفس الشيء,Profil mis à jour avec succès,नया पासवर्ड और कन्फर्म पासवर्ड समान नहीं है
+Password not updated,Password not updated,Contraseña no actualizada,لم يتم تحديث كلمة المرور,Le mot de passe actuel ne correspond pas,पासवर्ड अपडेट नहीं हुआ
+Profile successfully updated,Profile successfully updated,Perfil actualizado exitosamente,تم تحديث الملف الشخصي بنجاح,Mot de passe mis à jour avec succès,प्रोफ़ाइल सफलतापूर्वक अपडेट की गई
+Current password didn't match,Current password didn't match,La contraseña actual no coincide,كلمة المرور الحالية غير متطابقة,Déconnexion réussie,वर्तमान पासवर्ड मेल नहीं खाता
+Password successfully updated,Password successfully updated,Contraseña actualizada exitosamente,تم تحديث كلمة المرور بنجاح,Session expirée. Veuillez réessayer,पासवर्ड सफलतापूर्वक अपडेट किया गया
+Logout Successfully,Logout Successfully,Cerrar sesión exitosamente,تم تسجيل الخروج بنجاح,Compte vérifié avec succès,सफलतापूर्वक लॉगआउट करें
+Session expired. Please try again,Session expired. Please try again,La sesión expiró. Por favor inténtalo de nuevo,انتهت صلاحية الجلسة. يرجى المحاولة مرة أخرى,Réussite du renvoi du courrier OTP,सत्र समाप्त हुआ। कृपया पुन: प्रयास करें
+Account successfully verified,Account successfully verified,Cuenta verificada exitosamente,تم التحقق من الحساب بنجاح,Vous êtes déjà un utilisateur vérifié KYC,खाता सफलतापूर्वक सत्यापित
+Mail OTP Resend Success,Mail OTP Resend Success,Reenvío exitoso de OTP de correo,نجاح إعادة إرسال البريد OTP,Informations KYC soumises avec succès,मेल ओटीपी पुनः भेजने में सफलता
+You are already KYC Verified User,You are already KYC Verified User,Ya eres usuario verificado de KYC,أنت بالفعل مستخدم تم التحقق منه KYC,Ajouter de l'argent annulé,आप पहले से ही केवाईसी सत्यापित उपयोगकर्ता हैं
+KYC information successfully submitted,KYC information successfully submitted,La información KYC se envió correctamente,تم إرسال معلومات KYC بنجاح,Quelque chose ne va pas,केवाईसी जानकारी सफलतापूर्वक सबमिट की गई
+Add money cancelled,Add money cancelled,Añadir dinero cancelado,تم إلغاء إضافة الأموال,L'argent ajouté a échoué,पैसा जोड़ना रद्द
+Something Is Wrong,Something Is Wrong,Algo anda mal,هناك خطأ ما,Argent ajouté annulé,कुछ गड़बड़ है
+Added Money Failed,Added Money Failed,Error al agregar dinero,فشلت إضافة الأموال,Paiement annulé,पैसा जोड़ा नहीं जा सका
+Added Money Canceled,Added Money Canceled,Dinero agregado cancelado,تم إلغاء الأموال المضافة,Réussite de la confirmation de paiement,जोड़ा गया पैसा रद्द किया गया
+Payment Canceled,Payment Canceled,Pago cancelado,تم إلغاء الدفع,Demande de transaction envoyée avec succès,भुगतान रद्द कर दिया गया
+Payment Confirmation Success,Payment Confirmation Success,Éxito de la confirmación del pago,نجاح تأكيد الدفع,L'utilisateur n'existe pas,भुगतान पुष्टिकरण सफलता
+Transaction request sended successfully,Transaction request sended successfully,Solicitud de transacción enviada exitosamente,تم إرسال طلب المعاملة بنجاح,Jeton de réinitialisation du mot de passe expiré,लेन-देन अनुरोध सफलतापूर्वक भेजा गया
+User doesn't exists,User doesn't exists,El usuario no existe,المستخدم غير موجود,Code de vérification renvoyé avec succès,उपयोगकर्ता मौजूद नहीं है
+Password Reset Token Expired,Password Reset Token Expired,El token de restablecimiento de contraseña expiró,انتهت صلاحية رمز إعادة تعيين كلمة المرور,Demande invalide. Veuillez réessayer,पासवर्ड रीसेट टोकन समाप्त हो गया
+Verification code resend success,Verification code resend success,Reenvío exitoso del código de verificación,تمت إعادة إرسال رمز التحقق بنجاح,Réinitialisation réussie du mot de passe. Veuillez vous connecter avec un nouveau mot de passe,सत्यापन कोड पुनः भेजने में सफलता
+Invalid Request. Please try again,Invalid Request. Please try again,Solicitud no válida. Por favor inténtalo de nuevo,طلب غير صالح. يرجى المحاولة مرة أخرى,Ou entrez un autre montant (facultatif),अमान्य अनुरोध। कृपया पुन: प्रयास करें
+Password reset success. Please login with new password,Password reset success. Please login with new password,Restablecimiento de contraseña exitoso. Por favor inicie sesión con nueva contraseña,نجاح إعادة تعيين كلمة المرور. الرجاء تسجيل الدخول بكلمة المرور الجديدة,Don inséré avec succès,पासवर्ड रीसेट सफल. कृपया नए पासवर्ड से लॉगिन करें
+Or enter other amount(optional),Or enter other amount(optional),O ingrese otra cantidad (opcional),أو أدخل مبلغًا آخر (اختياري),Veuillez respecter la limite de transaction,या अन्य राशि दर्ज करें (वैकल्पिक)
+Donation Inserted Successfully,Donation Inserted Successfully,Donación insertada exitosamente,تم إدخال التبرع بنجاح,Les informations sur la passerelle ne sont pas disponibles. Veuillez fournir l'alias de la devise de la passerelle de paiement,दान सफलतापूर्वक डाला गया
+Please follow the transaction limit,Please follow the transaction limit,Siga el límite de transacciones,يرجى اتباع حد المعاملة,Demande invalide,कृपया लेनदेन सीमा का पालन करें
+Gateway Information is not available. Please provide payment gateway currency alias,Gateway Information is not available. Please provide payment gateway currency alias,La información de la puerta de enlace no está disponible. Proporcione el alias de moneda de la pasarela de pago,معلومات البوابة غير متوفرة. يرجى تقديم الاسم المستعار لعملة بوابة الدفع,Utilisateur non autorisé,गेटवे सूचना उपलब्ध नहीं है. कृपया भुगतान गेटवे मुद्रा उपनाम प्रदान करें
+Invalid Request,Invalid Request,Solicitud no válida,طلب غير صالح,Campagne introuvable,अमान्य अनुरोध
+Unauthorized user,Unauthorized user,Usuario no autorizado,مستخدم غير مصرح به,Récupération des données de la passerelle de don,अनधिकृत उपयोगकर्ता
+Campaign not found,Campaign not found,Campaña no encontrada,لم يتم العثور على الحملة,Récupération réussie des données de l'historique des dons,अभियान नहीं मिला
+Donation gateway data fetch,Donation gateway data fetch,Obtención de datos del portal de donaciones,جلب بيانات بوابة التبرع,Don annulé avec succès,दान गेटवे डेटा प्राप्त करें
+Donations History Data Fetch Successful,Donations History Data Fetch Successful,Datos del historial de donaciones obtenidos correctamente,تم جلب بيانات سجل التبرعات بنجاح,"Don réussi, veuillez revenir sur votre application",दान इतिहास डेटा फ़ेच सफल
+Donation Canceled Successfully,Donation Canceled Successfully,Donación cancelada exitosamente,تم إلغاء التبرع بنجاح,Échec du paiement,दान सफलतापूर्वक रद्द किया गया
+"Donation Successful, Please Go Back Your App","Donation Successful, Please Go Back Your App","Donación exitosa, regrese a su aplicación",تم التبرع بنجاح، يرجى الرجوع إلى تطبيقك,L'utilisateur demandé n'enregistre pas correctement. Veuillez réessayer,"दान सफल, कृपया अपना ऐप वापस लें"
+Payment Failed,Payment Failed,Pago fallido,فشل الدفع,Ajouter de l'argent annulé avec succès,भुगतान विफल रही
+Request user doesn't save properly. Please try again,Request user doesn't save properly. Please try again,El usuario de la solicitud no se guarda correctamente. Por favor inténtalo de nuevo,طلب المستخدم لا يحفظ بشكل صحيح. يرجى المحاولة مرة أخرى,Ajouter de l'argent avec succès,अनुरोध उपयोगकर्ता ठीक से सहेजता नहीं है। कृपया पुन: प्रयास करें
+Add Money Canceled Successfully,Add Money Canceled Successfully,Agregar dinero cancelado exitosamente,تم إلغاء إضافة الأموال بنجاح,Paiement annulé,पैसा जोड़ें सफलतापूर्वक रद्द किया गया
+Successfully Add Money,Successfully Add Money,Agregue dinero exitosamente,تمت إضافة الأموال بنجاح,Paiement réussi,सफलतापूर्वक पैसा जोड़ें
+Payment Cancelled,Payment Cancelled,Pago cancelado,تم إلغاء الدفع,Ajouter de l'argent inséré avec succès,भुगतान रद्द कर दिया गया
+Payment successful,Payment successful,Pago exitoso,تم الدفع بنجاح,Récupération réussie des données linguistiques,भुगतान सफल
+Add Money Inserted Successfully,Add Money Inserted Successfully,Agregue dinero insertado exitosamente,تم إضافة الأموال بنجاح,Données récupérées avec succès,सफलतापूर्वक डाला गया पैसा जोड़ें
+Language Data Fetch Successfully,Language Data Fetch Successfully,Recuperación de datos de idioma exitosa,تم جلب بيانات اللغة بنجاح,Les données du tableau de bord ont été récupérées avec succès,भाषा डेटा सफलतापूर्वक प्राप्त हुआ
+Data fetched successfully,Data fetched successfully,Datos obtenidos correctamente,تم جلب البيانات بنجاح,Les campagnes sont récupérées avec succès,डेटा सफलतापूर्वक लाया गया
+Dashboard data successfully fetch,Dashboard data successfully fetch,Los datos del panel se recuperaron correctamente,تم جلب بيانات لوحة المعلومات بنجاح,Les détails de la campagne ont été récupérés avec succès,डैशबोर्ड डेटा सफलतापूर्वक लाया गया
+Campaigns successfully fetch,Campaigns successfully fetch,Las campañas se recuperaron correctamente,تم جلب الحملات بنجاح,Les événements ont été récupérés avec succès,अभियान सफलतापूर्वक प्राप्त हुए
+Campaign Details successfully fetch,Campaign Details successfully fetch,Los detalles de la campaña se obtuvieron correctamente,تم جلب تفاصيل الحملة بنجاح,Les détails de l'événement ont été récupérés avec succès,अभियान विवरण सफलतापूर्वक लाया गया
+Events successfully fetch,Events successfully fetch,Los eventos se recuperaron correctamente,تم جلب الأحداث بنجاح,Mot de passe mis à jour avec succès,ईवेंट सफलतापूर्वक प्राप्त हुए
+Event Details successfully fetch,Event Details successfully fetch,Detalles del evento recuperados exitosamente,تم جلب تفاصيل الحدث بنجاح,Les informations d'identification ne correspondent pas,इवेंट विवरण सफलतापूर्वक लाया गया
+Password updated successfully,Password updated successfully,Contraseña actualizada exitosamente,تم تحديث كلمة المرور بنجاح,Le compte a été suspendu,पासवर्ड सफलतापूर्वक अद्यतन
+The credentials does not match,The credentials does not match,Las credenciales no coinciden,بيانات الاعتماد غير متطابقة,Veuillez vérifier vos e-mails et vérifier votre compte,क्रेडेंशियल्स मेल नहीं खाते
+Account Has been Suspended,Account Has been Suspended,La cuenta ha sido suspendida,لقد تم تعليق الحساب,Connexion réussie,खाता निलंबित कर दिया गया है
+Please check email and verify your account,Please check email and verify your account,Por favor revise el correo electrónico y verifique su cuenta.,يرجى التحقق من البريد الإلكتروني والتحقق من حسابك,Code de vérification envoyé avec succès,कृपया ईमेल जांचें और अपना खाता सत्यापित करें
+Login Successful,Login Successful,Iniciar sesión exitosamente,تم تسجيل الدخول بنجاح,Déconnexion réussie,लॉग इन सफल
+Verification code send success,Verification code send success,El código de verificación se envió correctamente,تم إرسال رمز التحقق بنجاح,Code OTP de vérification envoyé à votre adresse e-mail,सत्यापन कोड सफलतापूर्वक भेजा गया
+Logout Successful,Logout Successful,Cerrar sesión exitosamente,تم تسجيل الخروج بنجاح,Vérification OTP invalide,लॉगआउट सफल
+Verification otp code sended to your email address,Verification otp code sended to your email address,Código otp de verificación enviado a su dirección de correo electrónico,تم إرسال رمز التحقق لمرة واحدة إلى عنوان بريدك الإلكتروني,Vérification OTP réussie,सत्यापन ओटीपी कोड आपके ईमेल पते पर भेजा गया
+Verification OTP invalid,Verification OTP invalid,Verificación OTP no válida,التحقق من كلمة المرور لمرة واحدة (OTP) غير صالح,"Oups, le mot de passe ne correspond pas",सत्यापन ओटीपी अमान्य
+OTP verification successful,OTP verification successful,Verificación OTP exitosa,تم التحقق من OTP بنجاح,La demande d'ajout d'argent a été approuvée avec succès,ओटीपी सत्यापन सफल
+Oops password does not match,Oops password does not match,"Vaya, la contraseña no coincide",عفوًا، كلمة المرور غير متطابقة,Demande d'ajout d'argent rejetée avec succès,उफ़ पासवर्ड मेल नहीं खाता
+Add Money request approved successfully,Add Money request approved successfully,Solicitud de Agregar dinero aprobada exitosamente,تمت الموافقة على طلب إضافة الأموال بنجاح,Oups ! Échec de l'envoi du courrier. Veuillez revérifier vos identifiants de messagerie ou reconfigurer la messagerie,धन जोड़ने का अनुरोध सफलतापूर्वक स्वीकृत हो गया
+Add Money request rejected successfully,Add Money request rejected successfully,Solicitud de Agregar dinero rechazada exitosamente,تم رفض طلب إضافة الأموال بنجاح,E-mail envoyé avec succès !,धन जोड़ने का अनुरोध सफलतापूर्वक अस्वीकार कर दिया गया
+Opps! Faild to send mail. Please recheck your mail credentials or reconfigure mail,Opps! Faild to send mail. Please recheck your mail credentials or reconfigure mail,¡Ups! No se pudo enviar el correo. Vuelva a verificar sus credenciales de correo o reconfigure el correo.,انتبه! فشل في إرسال البريد. يرجى إعادة التحقق من بيانات اعتماد البريد الخاص بك أو إعادة تكوين البريد,Oups ! Échec du téléchargement de l'image,उफ़! मेल भेजने में विफल. कृपया अपने मेल क्रेडेंशियल दोबारा जांचें या मेल पुन: कॉन्फ़िगर करें
+Email send successfully!,Email send successfully!,¡Envío de correo electrónico exitoso!,إرسال البريد الإلكتروني بنجاح!,Nouvel administrateur créé avec succès !,ईमेल सफलतापूर्वक भेजा गया!
+Opps! Faild to upload image,Opps! Faild to upload image,¡Ups! No se pudo cargar la imagen,انتبه! فشل تحميل الصورة,Oups ! Administrateur cible introuvable !,उफ़! छवि अपलोड करने में विफल
+New admin created successfully!,New admin created successfully!,¡Nuevo administrador creado exitosamente!,تم إنشاء المشرف الجديد بنجاح!,Échec de l'attribution du rôle,नया व्यवस्थापक सफलतापूर्वक बनाया गया!
+Opps! Target admin not found!,Opps! Target admin not found!,¡Ups! ¡Administrador objetivo no encontrado!,انتبه! لم يتم العثور على المشرف المستهدف!,Les informations d'administration ont été mises à jour avec succès !,उफ़! लक्ष्य व्यवस्थापक नहीं मिला!
+Failed to assign role,Failed to assign role,No se pudo asignar el rol,فشل في تعيين الدور,Le statut d'administrateur a été mis à jour avec succès !,भूमिका निर्दिष्ट करने में विफल
+Admin information updated successfully!,Admin information updated successfully!,¡La información del administrador se actualizó exitosamente!,تم تحديث معلومات المشرف بنجاح!,Rôle d'administrateur créé avec succès !,व्यवस्थापक जानकारी सफलतापूर्वक अपडेट की गई!
+Admin status updated successfully!,Admin status updated successfully!,¡El estado del administrador se actualizó exitosamente!,تم تحديث حالة المشرف بنجاح!,Oups ! Cible introuvable !,व्यवस्थापक स्थिति सफलतापूर्वक अपडेट की गई!
+Admin role created successfully!,Admin role created successfully!,¡El rol de administrador se creó exitosamente!,تم إنشاء دور المشرف بنجاح!,Rôle d'administrateur mis à jour avec succès !,व्यवस्थापक भूमिका सफलतापूर्वक बनाई गई!
+Opps! Target not found!,Opps! Target not found!,¡Ups! ¡Objetivo no encontrado!,انتبه! لم يتم العثور على الهدف!,Le rôle de super-administrateur ne peut pas être supprimé,उफ़! लक्ष्य नहीं मिला!
+Admin role updated successfully!,Admin role updated successfully!,¡El rol de administrador se actualizó exitosamente!,تم تحديث دور المشرف بنجاح!,Écran embarqué introuvable !,व्यवस्थापक भूमिका सफलतापूर्वक अपडेट की गई!
+Super admin role can't deletable,Super admin role can't deletable,La función de superadministrador no se puede eliminar,لا يمكن حذف دور المشرف المتميز,L'état de l'écran intégré a été mis à jour avec succès !,सुपर एडमिन भूमिका को हटाया नहीं जा सकता
+Onboard screen not found!,Onboard screen not found!,¡No se encontró la pantalla integrada!,لم يتم العثور على الشاشة على متن الطائرة!,Écran supprimé avec succès !,ऑनबोर्ड स्क्रीन नहीं मिली!
+Onboard screen status updated successfully!,Onboard screen status updated successfully!,¡El estado de la pantalla integrada se actualizó correctamente!,تم تحديث حالة الشاشة على متن الطائرة بنجاح!,Écran de démarrage mis à jour avec succès !,ऑनबोर्ड स्क्रीन स्थिति सफलतापूर्वक अपडेट की गई!
+Screen deleted successfully!,Screen deleted successfully!,¡Pantalla eliminada exitosamente!,تم حذف الشاشة بنجاح!,Paramètres d'URL mis à jour avec succès !,स्क्रीन सफलतापूर्वक हटा दी गई!
+Splash screen updated successfully!,Splash screen updated successfully!,¡La pantalla de bienvenida se actualizó correctamente!,تم تحديث شاشة البداية بنجاح!,Configuration de diffusion mise à jour avec succès !,स्पलैश स्क्रीन सफलतापूर्वक अपडेट की गई!
+URL settings updated successfully!,URL settings updated successfully!,¡La configuración de URL se actualizó correctamente!,تم تحديث إعدادات URL بنجاح!,Section mise à jour avec succès !,यूआरएल सेटिंग्स सफलतापूर्वक अपडेट की गईं!
+Broadcast configuration updated successfully!,Broadcast configuration updated successfully!,¡La configuración de transmisión se actualizó exitosamente!,تم تحديث تكوين البث بنجاح!,Élément de campagne ajouté avec succès !,प्रसारण कॉन्फ़िगरेशन सफलतापूर्वक अपडेट किया गया!
+Section updated successfully!,Section updated successfully!,¡Sección actualizada exitosamente!,تم تحديث القسم بنجاح!,Élément de campagne mis à jour avec succès !,अनुभाग सफलतापूर्वक अपडेट किया गया!
+Campaign item added successfully!,Campaign item added successfully!,¡Artículo de campaña agregado exitosamente!,تمت إضافة عنصر الحملة بنجاح!,Les campagnes ont été supprimées avec succès !,अभियान आइटम सफलतापूर्वक जोड़ा गया!
+Campaign item updated successfully!,Campaign item updated successfully!,¡Artículo de campaña actualizado exitosamente!,تم تحديث عنصر الحملة بنجاح!,Statut de la campagne mis à jour avec succès !,अभियान आइटम सफलतापूर्वक अपडेट किया गया!
+Campaigns delete successfully!,Campaigns delete successfully!,¡Las campañas se eliminan correctamente!,تم حذف الحملات بنجاح!,E-mail envoyé avec succès,अभियान सफलतापूर्वक हटाए गए!
+Campaign status updated successfully!,Campaign status updated successfully!,¡El estado de la campaña se actualizó exitosamente!,تم تحديث حالة الحملة بنجاح!,Message de contact supprimé avec succès !,अभियान स्थिति सफलतापूर्वक अपडेट की गई!
+Email successfully sended,Email successfully sended,Correo electrónico enviado correctamente,تم إرسال البريد الإلكتروني بنجاح,Les notifications sont effacées avec succès !,ईमेल सफलतापूर्वक भेजा गया
+Contact Message delete successfully!,Contact Message delete successfully!,Contacto ¡Eliminación del mensaje exitosamente!,تم حذف رسالة الاتصال بنجاح!,Demande de don approuvée avec succès,संपर्क संदेश सफलतापूर्वक हटा दिया गया!
+Notifications clear successfully!,Notifications clear successfully!,¡Las notificaciones se borran correctamente!,تم مسح الإخطارات بنجاح!,Demande de don rejetée avec succès,सूचनाएं सफलतापूर्वक साफ़ हो गईं!
+Donation request approved successfully,Donation request approved successfully,Solicitud de donación aprobada con éxito,تمت الموافقة على طلب التبرع بنجاح,Événement ajouté avec succès !,दान अनुरोध सफलतापूर्वक स्वीकृत हो गया
+Donation request rejected successfully,Donation request rejected successfully,Solicitud de donación rechazada exitosamente,تم رفض طلب التبرع بنجاح,Événement mis à jour avec succès !,दान अनुरोध सफलतापूर्वक अस्वीकार कर दिया गया
+Event added successfully!,Event added successfully!,¡Evento agregado exitosamente!,تمت إضافة الحدث بنجاح!,Enregistrement d'événement introuvable dans notre système,ईवेंट सफलतापूर्वक जोड़ा गया!
+Event updated successfully!,Event updated successfully!,¡Evento actualizado exitosamente!,تم تحديث الحدث بنجاح!,L'événement a été supprimé avec succès !,इवेंट सफलतापूर्वक अपडेट किया गया!
+Event record not found in our system,Event record not found in our system,Registro de evento no encontrado en nuestro sistema,سجل الحدث غير موجود في نظامنا,Langue mise à jour avec succès !,हमारे सिस्टम में इवेंट रिकॉर्ड नहीं मिला
+Event delete successfully!,Event delete successfully!,¡El evento se eliminó correctamente!,تم حذف الحدث بنجاح!,Changement de langue réussi !,ईवेंट सफलतापूर्वक हटा दिया गया!
+Language updated successfully!,Language updated successfully!,¡Idioma actualizado exitosamente!,تم تحديث اللغة بنجاح!,Informations sur le profil mises à jour avec succès !,भाषा सफलतापूर्वक अपडेट की गई!
+Language switch successfully!,Language switch successfully!,¡Cambio de idioma exitoso!,تبديل اللغة بنجاح!,Paramètres de base introuvables !,भाषा परिवर्तन सफलतापूर्वक!
+Profile Information Updated Successfully!,Profile Information Updated Successfully!,¡Información de perfil actualizada con éxito!,تم تحديث معلومات الملف الشخصي بنجاح!,Informations mises à jour avec succès !,प्रोफ़ाइल जानकारी सफलतापूर्वक अपडेट की गई!
+Basic settings not found!,Basic settings not found!,¡No se encontraron configuraciones básicas!,لم يتم العثور على الإعدادات الأساسية!,L'état de la page de configuration a été mis à jour avec succès !,बुनियादी सेटिंग्स नहीं मिलीं!
+Information updated successfully!,Information updated successfully!,¡Información actualizada exitosamente!,تم تحديث المعلومات بنجاح!,À propos de l'article ajouté avec succès !,जानकारी सफलतापूर्वक अपडेट की गई!
+Setup Page status updated successfully!,Setup Page status updated successfully!,¡El estado de la página de configuración se actualizó exitosamente!,تم تحديث حالة صفحة الإعداد بنجاح!,Élément de section ajouté avec succès !,सेटअप पृष्ठ स्थिति सफलतापूर्वक अपडेट की गई!
+About item added successfully!,About item added successfully!,¡Acerca del artículo agregado exitosamente!,تمت إضافة العنصر بنجاح!,L'élément de section a été supprimé avec succès !,सफलतापूर्वक जोड़े गए आइटम के बारे में!
+Section item added successfully!,Section item added successfully!,¡El artículo de la sección se agregó correctamente!,تمت إضافة عنصر القسم بنجاح!,Section Partenaire mise à jour avec succès !,अनुभाग आइटम सफलतापूर्वक जोड़ा गया!
+Section item delete successfully!,Section item delete successfully!,¡El elemento de la sección se eliminó correctamente!,تم حذف عنصر القسم بنجاح!,Élément de section introuvable !,अनुभाग आइटम सफलतापूर्वक हटा दिया गया!
+Partner Section updated successfully!,Partner Section updated successfully!,¡La sección de socios se actualizó exitosamente!,تم تحديث قسم الشركاء بنجاح!,Catégorie enregistrée avec succès !,पार्टनर अनुभाग सफलतापूर्वक अपडेट किया गया!
+Section item not found!,Section item not found!,¡Artículo de sección no encontrado!,لم يتم العثور على عنصر القسم!,Catégorie mise à jour avec succès !,अनुभाग आइटम नहीं मिला!
+Category Saved Successfully!,Category Saved Successfully!,¡Categoría guardada exitosamente!,تم حفظ الفئة بنجاح!,Statut de la catégorie mis à jour avec succès !,श्रेणी सफलतापूर्वक सहेजी गई!
+Category Updated Successfully!,Category Updated Successfully!,¡Categoría actualizada con éxito!,تم تحديث الفئة بنجاح!,FAQ enregistrée avec succès !,श्रेणी सफलतापूर्वक अपडेट की गई!
+Category status updated successfully!,Category status updated successfully!,¡El estado de la categoría se actualizó exitosamente!,تم تحديث حالة الفئة بنجاح!,Statut de la FAQ mis à jour avec succès !,श्रेणी स्थिति सफलतापूर्वक अपडेट की गई!
+Faq Saved Successfully!,Faq Saved Successfully!,¡Preguntas frecuentes guardadas correctamente!,تم حفظ الأسئلة الشائعة بنجاح!,FAQ supprimée avec succès !,एफएक्यू सफलतापूर्वक सहेजा गया!
+Faq status updated successfully!,Faq status updated successfully!,¡El estado de las preguntas frecuentes se actualizó exitosamente!,تم تحديث حالة الأسئلة الشائعة بنجاح!,L'abonné a été supprimé avec succès !,अक्सर पूछे जाने वाले प्रश्न स्थिति सफलतापूर्वक अपडेट की गई!
+Faq deleted successfully!,Faq deleted successfully!,¡Preguntas frecuentes eliminadas correctamente!,تم حذف الأسئلة الشائعة بنجاح!,Échec du changement d'état en actif !,Faq सफलतापूर्वक हटा दिया गया!
+Subscriber delete successfully!,Subscriber delete successfully!,¡Eliminación del suscriptor exitosamente!,تم حذف المشترك بنجاح!,Succès,सब्सक्राइबर सफलतापूर्वक हटा दिया गया!
+Failed to change status to active!,Failed to change status to active!,¡No se pudo cambiar el estado a activo!,فشل تغيير الحالة إلى نشطة!,Page ajoutée avec succès !,स्थिति को सक्रिय में बदलने में विफल!
+Success,Success,Éxito,نجاح,Page mise à jour avec succès !,सफलता
+Page added successfully!,Page added successfully!,¡Página agregada exitosamente!,تمت إضافة الصفحة بنجاح!,Enregistrement de page introuvable dans notre système,पेज सफलतापूर्वक जोड़ा गया!
+Page updated successfully!,Page updated successfully!,¡Página actualizada exitosamente!,تم تحديث الصفحة بنجاح!,Statut de la page mis à jour avec succès !,पेज सफलतापूर्वक अपडेट किया गया!
+Page record not found in our system,Page record not found in our system,Registro de página no encontrado en nuestro sistema,سجل الصفحة غير موجود في نظامنا,Page supprimée avec succès !,हमारे सिस्टम में पेज रिकॉर्ड नहीं मिला
+Page status updated successfully!,Page status updated successfully!,¡El estado de la página se actualizó exitosamente!,تم تحديث حالة الصفحة بنجاح!,Utilisateur actif,पृष्ठ स्थिति सफलतापूर्वक अपडेट की गई!
+Page deleted successfully!,Page deleted successfully!,¡Página eliminada exitosamente!,تم حذف الصفحة بنجاح!,L'utilisateur KYC a été approuvé avec succès,पेज सफलतापूर्वक हटा दिया गया!
+Active User,Active User,Usuario activo,مستخدم نشط,Informations KYC de l'utilisateur introuvables,सक्रिय उपयोगकर्ता
+User KYC successfully approved,User KYC successfully approved,Usuario KYC aprobado exitosamente,تمت الموافقة على KYC للمستخدم بنجاح,Portefeuille utilisateur introuvable !,उपयोगकर्ता केवाईसी सफलतापूर्वक स्वीकृत
+User KYC information not found,User KYC information not found,Información KYC del usuario no encontrada,لم يتم العثور على معلومات KYC الخاصة بالمستخدم,Succès des transactions,उपयोगकर्ता केवाईसी जानकारी नहीं मिली
+User wallet not found!,User wallet not found!,¡No se encontró la billetera del usuario!,لم يتم العثور على محفظة المستخدم!,Paramètres de base mis à jour avec succès !,उपयोगकर्ता वॉलेट नहीं मिला!
+Transaction success,Transaction success,Éxito de la transacción,نجاح الصفقة,Vous devez d'abord configurer votre messagerie système,लेन-देन सफल
+Basic settings updated successfully!,Basic settings updated successfully!,¡La configuración básica se actualizó correctamente!,تم تحديث الإعدادات الأساسية بنجاح!,Veuillez d'abord configurer le champ KYC. Accédez à la page [Configurer KYC] dans la barre latérale,बुनियादी सेटिंग्स सफलतापूर्वक अपडेट की गईं!
+You have to configure your system mail first,You have to configure your system mail first,Primero debes configurar el correo de tu sistema.,يجب عليك تكوين بريد النظام الخاص بك أولاً,Paramètre de base introuvable ! Veuillez exécuter le semoir de base de données,आपको पहले अपना सिस्टम मेल कॉन्फ़िगर करना होगा
+Please setup KYC field first. Go to [Setup KYC] page from sidebar,Please setup KYC field first. Go to [Setup KYC] page from sidebar,Primero configure el campo KYC. Vaya a la página [Configurar KYC] desde la barra lateral,يرجى إعداد حقل KYC أولاً. انتقل إلى صفحة [Setup KYC] من الشريط الجانبي,Les éléments d'image ont été mis à jour avec succès !,कृपया पहले केवाईसी फ़ील्ड सेटअप करें। साइडबार से [सेटअप केवाईसी] पेज पर जाएं
+Basic setting not found! Please run database seeder,Basic setting not found! Please run database seeder,¡Configuración básica no encontrada! Ejecute el sembrador de base de datos.,لم يتم العثور على الإعداد الأساسي! الرجاء تشغيل بذارة قاعدة البيانات,Informations SEO mises à jour avec succès !,मूल सेटिंग नहीं मिली! कृपया डेटाबेस सीडर चलाएँ
+Image assets updated successfully!,Image assets updated successfully!,¡Los recursos de imagen se actualizaron correctamente!,تم تحديث أصول الصورة بنجاح!,Vous n'avez pas de compte ?,छवि परिसंपत्तियाँ सफलतापूर्वक अपडेट की गईं!
+SEO information updated successfully!,SEO information updated successfully!,¡Información SEO actualizada con éxito!,تم تحديث معلومات تحسين محركات البحث (SEO) بنجاح!,Montant collecté de tous les temps,एसईओ जानकारी सफलतापूर्वक अपडेट की गई!
+Don't Have An Account?,Don't Have An Account?,¿No tienes una cuenta?,ليس لديك حساب؟,Passerelle de paiement,कोई खाता नहीं है?
+All Time Raised Amount,All Time Raised Amount,Monto recaudado todos los tiempos,المبلغ الذي تم رفعه في كل الأوقات,Disponible,सर्वकालिक जुटाई गई राशि
+Payment Gateway,Payment Gateway,Pasarela de pago,بوابة الدفع,Entrez votre nom,भुगतान गेटवे
+Available,Available,Disponible,متاح,Entrez votre numéro,उपलब्ध
+Enter your name,Enter your name,Introduce tu nombre,أدخل اسمك,Sujet,अपना नाम दर्ज करें
+Enter your number,Enter your number,Introduce tu número,أدخل رقمك,Entrez votre message,अपना नंबर दर्ज करें
+Subject,Subject,Sujeto,موضوع,En attente,विषय
+Enter your message,Enter your message,Introduce tu mensaje,أدخل رسالتك,Rejeté,अपना संदेश दर्ज करें
+Pending,Pending,Pendiente,قيد الانتظار,En attendant,लंबित
+Rejected,Rejected,Rechazado,مرفوض,Limite,अस्वीकार कर दिया
+Waiting,Waiting,Espera,منتظر,Transactions et journaux,इंतज़ार में
+Limit,Limit,Límite,حد,Panneau d'interface,आप LIMIT
+Transactions & Logs,Transactions & Logs,Transacciones y registros,المعاملات والسجلات,Hachage Tnx,लेन-देन और लॉग
+Interface Panel,Interface Panel,Panel de interfaz,لوحة الواجهة,Hachage de transaction,इंटरफ़ेस पैनल
+Tnx hash,Tnx hash,hash tnx,تجزئة Tnx,Hachage des transactions,टीएनएक्स हैश
+Transaction Hash Hash,Transaction Hash Hash,Hash de transacción Hash,تجزئة المعاملات,Entrez le mot de passe,लेनदेन हैश हैश
+Transaction Hash,Transaction Hash,Hash de transacción,تجزئة الصفقة,Entrez le prénom,लेनदेन हैश
+Enter Password,Enter Password,Ingrese la contraseña,أدخل كلمة المرور,Entrez le nom de famille,पास वर्ड दर्ज करें
+Enter First Name,Enter First Name,Introduzca el nombre,أدخل الاسم الأول,Pays,प्रथम नाम दर्ज करें
+Enter Last Name,Enter Last Name,Ingrese el apellido,أدخل الاسم الأخير,État,अंतिम नाम दर्ज करो
+Country,Country,País,دولة,Entrez l'état,देश
+State,State,Estado,ولاية,Ville,राज्य
+Enter State,Enter State,Ingresar estado,أدخل الولاية,Entrez la ville,राज्य दर्ज करें
+City,City,Ciudad,مدينة,Code postal,शहर
+Enter city,Enter city,Introduce la ciudad,أدخل المدينة,Entrez le code postal,शहर में प्रवेश करें
+Zip Code,Zip Code,Código postal,الرمز البريدي,Adresse,ज़िप कोड
+Enter Zip,Enter Zip,Ingresar código postal,أدخل الرمز البريدي,Entrez l'adresse,ज़िप दर्ज करें
+Address,Address,DIRECCIÓN,عنوان,Développé par,पता
+Enter Address,Enter Address,Introduzca la dirección,أدخل العنوان,Complété,पता दर्ज करें
+Developed by,Developed by,Desarrollado por,تم تطويره بواسطة,Annulé,द्वारा विकसित किया गया
+Completed,Completed,Terminado,مكتمل,Prise,पुरा होना।
+Canceled,Canceled,Cancelado,تم الإلغاء,Tous,रद्द किया गया
+Hold,Hold,Sostener,يمسك,Interdit,पकड़ना
+All,All,Todo,الجميع,1 semaine,सभी
+Banned,Banned,Prohibido,محظور,1 mois,प्रतिबंधित
+1 week,1 week,1 semana,1 أسبوع,1 an,1 सप्ताह
+1 month,1 month,1 mes,شهر واحد,#REF!,1 महीना
+1 year,1 year,1 año,1 سنة,Titre,1 वर्ष
+Heading,Heading,Título,عنوان,Image,शीर्षक
+Description,Description,Descripción,وصف,Activer,विवरण
+Image,Image,Imagen,صورة,Désactiver,छवि
+Enable,Enable,Permitir,يُمكَِن,Balises,सक्षम
+Disable,Disable,Desactivar,إبطال,Drapeau du pays,अक्षम करना
+Tags,Tags,Etiquetas,العلامات,Modifier la devise,टैग
+Country Flag,Country Flag,Bandera del país,علم الدولة,Taux,देश का झंडा
+Edit Currency,Edit Currency,Editar moneda,تحرير العملة,Détails,मुद्रा संपादित करें
+Rate,Rate,Tasa,معدل,Modifier l'événement,दर
+Details,Details,Detalles,تفاصيل,Total des transactions,विवरण
+Edit Event,Edit Event,Editar evento,تحرير الحدث,Total Ajouter de l'argent,इवेंट संपादित करें
+Total Transactions,Total Transactions,Transacciones totales,إجمالي المعاملات,Présentation de l'utilisateur,कुल लेनदेन
+Total Add Money,Total Add Money,Total agregar dinero,إجمالي إضافة المال,Ajouter/soustraire le solde,कुल पैसा जोड़ें
+User Overview,User Overview,Descripción general del usuario,نظرة عامة على المستخدم,Journaux de connexion,उपयोगकर्ता अवलोकन
+Add/Subtract Balance,Add/Subtract Balance,Sumar/Restar Saldo,إضافة/طرح الرصيد,Connectez-vous en tant que membre,शेष जोड़ें/घटाएँ
+Login Logs,Login Logs,Registros de inicio de sesión,سجلات تسجيل الدخول,Journaux de courrier électronique,लॉगइन लॉग्स
+Login as Member,Login as Member,Iniciar sesión como miembro,تسجيل الدخول كعضو,Dernière connexion,सदस्य के रूप में लॉगिन करें
+Email Logs,Email Logs,Registros de correo electrónico,سجلات البريد الإلكتروني,Zip/Poste,ईमेल लॉग्स
+Last Login,Last Login,Último inicio de sesión,تسجيل الدخول الأخير,Numéro de téléphone,आखरी लॉगइन
+Zip/Postal,Zip/Postal,Código postal/correo postal,الرمز البريدي/البريدي,Statut de l'utilisateur,ज़िप/डाक
+Phone Number,Phone Number,Número de teléfono,رقم التليفون,Vérification 2FA,फ़ोन नंबर
+User Status,User Status,Estado de usuario,حالة المستخدم,Écrivez ici...,उपयोगकर्ता स्थिति
+2FA Verification,2FA Verification,Verificación 2FA,التحقق 2FA,Sélectionnez le type,2एफए सत्यापन
+Write Here...,Write Here...,Escribe aquí...,أكتب هنا...,Solde Ajouter,यहाँ लिखें...
+Select Type,Select Type,Seleccionar tipo,حدد النوع,Soustraire le solde,प्रकार चुनें
+Balance Add,Balance Add,Agregar saldo,إضافة الرصيد,Sélectionnez le portefeuille utilisateur,शेष राशि जोड़ें
+Balance Subtract,Balance Subtract,Resta de saldo,طرح الرصيد,Remarque,शेष घटाना
+Select User Wallet,Select User Wallet,Seleccionar billetera de usuario,حدد محفظة المستخدم,Envoyer,उपयोगकर्ता वॉलेट का चयन करें
+Remark,Remark,Observación,ملاحظة,Sélectionnez les utilisateurs,टिप्पणी
+Send,Send,Enviar,يرسل,Kyc non vérifié,भेजना
+Select Users,Select Users,Seleccionar usuarios,حدد المستخدمين,Utilisateur,उपयोगकर्ता चुनें
+Kyc Unverified,Kyc Unverified,Kyc no verificado,لم يتم التحقق من Kyc,Approuver,केवाईसी असत्यापित
+User,User,Usuario,مستخدم,Rejeter,उपयोगकर्ता
+Approve,Approve,Aprobar,يعتمد,Informations KYC non encore soumises,मंज़ूरी देना
+Reject,Reject,Rechazar,يرفض,SL,अस्वीकार करना
+KYC Information not submitted yet,KYC Information not submitted yet,Información KYC aún no enviada,لم يتم تقديم معلومات KYC بعد,IP,केवाईसी जानकारी अभी तक जमा नहीं की गई है
+SL,SL,SL,إس إل,MAC,क्र
+IP,IP,IP,الملكية الفكرية,Emplacement,आई पी
+MAC,MAC,IMPERMEABLE,ماك,Navigateur | Système d'exploitation,मैक
+Location,Location,Ubicación,موقع,Connectez-vous à,जगह
+Browser | OS,Browser | OS,Navegador | SO,المتصفح | نظام التشغيل,Expéditeur de courrier (méthode),ब्राउज़र | ओएस
+Login at,Login at,Inicia sesión en,تسجيل الدخول في,SL NON,पर लॉगिन करें
+Mail Sender(Method),Mail Sender(Method),Remitente de correo (método),مرسل البريد (الطريقة),Nom du rôle,मेल प्रेषक(विधि)
+SL NO,SL NO,SL NO,رقم SL,Désigner un administrateur,एसएल नं
+Role Name,Role Name,Nombre del rol,اسم الدور,Message de contact,भूमिका का नाम
+Asign Admin,Asign Admin,Asignar administrador,تعيين المشرف,Couleur de base du site,व्यवस्थापक नियुक्त करें
+Contact Message,Contact Message,Mensaje de contacto,رسالة الاتصال,Expiration du OTP,संपर्क संदेश
+Site Base Color,Site Base Color,Color base del sitio,اللون الأساسي للموقع,Secondes,साइट का आधार रंग
+OTP Expiration,OTP Expiration,Vencimiento de la OTP,انتهاء صلاحية OTP,Version Web,ओटीपी समाप्ति
+Seconds,Seconds,Artículos de segunda clase,ثواني,Nom du site,सेकंड
+Web Version,Web Version,Versión Web,نسخة الويب,Écrivez le nom...,वेब संस्करण
+Site Name,Site Name,Nombre del sitio,اسم الموقع,Titre du site,जगह का नाम
+Write Name...,Write Name...,Escribir nombre...,كتابة الاسم...,Fuseau horaire,नाम लिखें...
+Site Title,Site Title,Título del sitio,عنوان الموقع,Sélectionnez le fuseau horaire,घटनास्थल शीर्षक
+Timezone,Timezone,Zona horaria,المنطقة الزمنية,Inscription des utilisateurs,समयक्षेत्र
+Select Timezone,Select Timezone,Seleccionar zona horaria,حدد المنطقة الزمنية,Mot de passe sécurisé,समयक्षेत्र चुनें
+User Registration,User Registration,Registro de usuario,تسجيل المستخدم,Accepter la politique,उपयोगकर्ता पंजीकरण
+Secure Password,Secure Password,Contraseña segura,كلمة مرور آمنة,Forcer SSL,सुरक्षित पासवर्ड
+Agree Policy,Agree Policy,Política de acuerdo,الموافقة على السياسة,Notification par courrier électronique,सहमत नीति
+Force SSL,Force SSL,Forzar SSL,فرض SSL,Notification poussée,एसएसएल को बाध्य करें
+Email Notification,Email Notification,Notificación por correo electrónico,إشعار البريد الإلكتروني,Logo (version légère),ईमेल अधिसूचना
+Push Notification,Push Notification,Notificación push,دفع الإخطار,Logo (version sombre),सर्वर पुश नोटीफिकेशन
+Logo (Light Version),Logo (Light Version),Logotipo (versión ligera),الشعار (النسخة الخفيفة),Icône de favori (version légère),लोगो (हल्का संस्करण)
+Logo (Dark Version),Logo (Dark Version),Logotipo (versión oscura),الشعار (الإصدار الداكن),Icône de favori (version sombre),लोगो (डार्क संस्करण)
+Favicon (Light Version),Favicon (Light Version),Favicon (versión ligera),الأيقونة المفضلة (الإصدار الخفيف),Image miniature,फ़ेविकॉन (लाइट संस्करण)
+Favicon (Dark Version),Favicon (Dark Version),Favicon (versión oscura),الأيقونة المفضلة (الإصدار الداكن),Titre social,फ़ेविकॉन (डार्क संस्करण)
+Thumbnail Image,Thumbnail Image,Imagen en miniatura,صورة مصغرة,Description sociale,थंबनेल छवि
+Social Title,Social Title,Título social,العنوان الاجتماعي,Ajouter un nouvel écran,सामाजिक शीर्षक
+Social Description,Social Description,Descripción social,الوصف الاجتماعي,Version de l'application,सामाजिक विवरण
+Add New Screen,Add New Screen,Agregar nueva pantalla,إضافة شاشة جديدة,URL de l'application Android,नई स्क्रीन जोड़ें
+App Version,App Version,Versión de la aplicación,إصدار التطبيق,URL de l'application iOS,एप्लिकेशन वेरीज़न
+Android App URL,Android App URL,URL de la aplicación de Android,عنوان URL لتطبيق Android,Télécharger,एंड्रॉइड ऐप यूआरएल
+iOS App URL,iOS App URL,URL de la aplicación iOS,عنوان URL لتطبيق iOS,Direction,आईओएस ऐप यूआरएल
+Download,Download,Descargar,تحميل,Sélectionnable,डाउनलोड करना
+Direction,Direction,Dirección,اتجاه,Nom de la langue,दिशा
+Selectable,Selectable,Seleccionable,قابل للتحديد,Code de langue,चयन
+Language Name,Language Name,Nombre del idioma,اسم اللغة,Langue,भाषा का नाम
+Language Code,Language Code,Código de idioma,رمز اللغة,Sélectionnez la langue,भाषा कोड
+Language,Language,Idioma,لغة,"Fichier de langue (.xlsx, .csv)",भाषा
+Select Language,Select Language,Seleccionar idioma,اختر اللغة,Méthode d'envoi d'e-mail,भाषा चुने
+"Language File (.xlsx, .csv)","Language File (.xlsx, .csv)","Archivo de idioma (.xlsx, .csv)",ملف اللغة (.xlsx، .csv),Sélectionnez la méthode,"भाषा फ़ाइल (.xlsx, .csv)"
+Email Send Method,Email Send Method,Método de envío de correo electrónico,طريقة إرسال البريد الإلكتروني,Envoyer un courrier,ईमेल भेजने की विधि
+Select Method,Select Method,Seleccionar método,حدد الطريقة,Hôte,विधि का चयन करें
+Send Mail,Send Mail,Enviar correo,إرسال البريد,Port,मेल भेजने
+Host,Host,Anfitrión,يستضيف,Cryptage,मेज़बान
+Port,Port,Puerto,ميناء,Image de la première section,पत्तन
+Encryption,Encryption,Cifrado,التشفير,Image de la deuxième section,कूटलेखन
+First Section Image,First Section Image,Imagen de la primera sección,صورة القسم الأول,Titre (première section),प्रथम खंड छवि
+Second Section Image,Second Section Image,Imagen de la segunda sección,صورة القسم الثاني,Titre (première section),दूसरे खंड की छवि
+Title (First Section),Title (First Section),Título (Primera Sección),العنوان (القسم الأول),Sous-titre (première section),शीर्षक (प्रथम खंड)
+Heading (First Section),Heading (First Section),Encabezado (Primera Sección),العنوان (القسم الأول),Nom du bouton (première section),शीर्षक (प्रथम खंड)
+Sub Heading (First Section),Sub Heading (First Section),Subtítulo (Primera Sección),العنوان الفرعي (القسم الأول),Lien du bouton (première section),उप शीर्षक (पहला खंड)
+Button Name (First Section),Button Name (First Section),Nombre del botón (primera sección),اسم الزر (القسم الأول),Titre (deuxième section),बटन का नाम (पहला खंड)
+Button Link (First Section),Button Link (First Section),Enlace de botón (primera sección),رابط الزر (القسم الأول),Titre (deuxième section),बटन लिंक (पहला खंड)
+Title (Second Section),Title (Second Section),Título (Segunda Sección),العنوان (القسم الثاني),Sous-titre (deuxième section),शीर्षक (दूसरा खंड)
+Heading (Second Section),Heading (Second Section),Encabezado (Segunda Sección),العنوان (القسم الثاني),Lien vidéo (deuxième section),शीर्षक (दूसरा खंड)
+Sub Heading (Second Section),Sub Heading (Second Section),Subtítulo (segunda sección),العنوان الفرعي (القسم الثاني),Ajouter des activités,उप शीर्षक (दूसरा खंड)
+Video Link (Second Section),Video Link (Second Section),Enlace de vídeo (segunda sección),رابط الفيديو (القسم الثاني),Image de la bannière,वीडियो लिंक (दूसरा खंड)
+Add Activities,Add Activities,Agregar actividades,أضف الأنشطة,Heures de bureau,गतिविधियां जोड़ें
+Banner Image,Banner Image,Imagen de banner,صورة البانر,Image d'accueil,बैनर छवि
+Office Hours,Office Hours,Horario de oficina,ساعات العمل,Image QR du Play Store,कार्यालय अवधि
+Home Image,Home Image,Imagen de inicio,صورة المنزل,Image QR de l’App Store,होम छवि
+Play Store QR Image,Play Store QR Image,Imagen QR de Play Store,متجر Play صورة QR,Image Google Play,प्ले स्टोर क्यूआर छवि
+App Store QR Image,App Store QR Image,Imagen QR de la tienda de aplicaciones,صورة QR لمتجر التطبيقات,Image de l’App Store,ऐप स्टोर क्यूआर छवि
+Google Play Image,Google Play Image,Imagen de Google Play,صورة جوجل بلاي,Sous-titre,गूगल प्ले छवि
+App Store Image,App Store Image,Imagen de la tienda de aplicaciones,صورة متجر التطبيقات,Étiqueter,ऐप स्टोर छवि
+Sub Heading,Sub Heading,Subtítulo,العنوان الفرعي,Texte du pied de page,उप शीर्षक
+Tag,Tag,Etiqueta,علامة,Détails du pied de page,टैग
+Footer Text,Footer Text,Texto de pie de página,نص التذييل,Détails du bulletin d'information,पादलेख पाठ
+Footer Details,Footer Details,Detalles del pie de página,تفاصيل التذييل,Icône sociale,पाद लेख विवरण
+Newsletter Details,Newsletter Details,Detalles del boletín,تفاصيل النشرة الإخبارية,Lien,न्यूज़लैटर विवरण
+Social Icon,Social Icon,Icono social,أيقونة الاجتماعية,Lien du bouton,सामाजिक चिह्न
+Link,Link,Enlace,وصلة,Nom du bouton,जोड़ना
+Button Link,Button Link,Enlace de botón,رابط الزر,Image de connexion,बटन लिंक
+Button Name,Button Name,Nombre del botón,اسم الزر,Enregistrer l'image,बटन का नाम
+Login Image,Login Image,Imagen de inicio de sesión,صورة تسجيل الدخول,Accepter le titre de la politique,लॉगिन छवि
+Register Image,Register Image,Registrar Imagen,تسجيل الصورة,Accepter le lien vers la politique,छवि पंजीकृत करें
+Agree Policy Title,Agree Policy Title,Aceptar título de la política,الموافقة على عنوان السياسة,Image 1,सहमत नीति शीर्षक
+Agree Policy Link,Agree Policy Link,Aceptar enlace de política,الموافقة على رابط السياسة,Image deux,सहमत नीति लिंक
+Image One,Image One,Imagen uno,الصورة الأولى,Image trois,छवि एक
+Image Two,Image Two,Imagen dos,الصورة الثانية,Image quatre,छवि दो
+Image Three,Image Three,Imagen tres,الصورة الثالثة,"Titre (pour une couleur de titre séparée, utilisez « | » chantez pour diviser)",छवि तीन
+Image Four,Image Four,Imagen cuatro,الصورة الرابعة,Ajouter un témoignage,छवि चार
+Heading (For Separate Heading color use '|' sing to divide),Heading (For Separate Heading color use '|' sing to divide),"Título (para un color de título separado, utilice '|' para dividir)",العنوان (للحصول على لون عنوان منفصل، استخدم '|' غناء للتقسيم),Modifier le témoignage,शीर्षक (अलग शीर्षक के लिए रंग का उपयोग करें '|' को विभाजित करने के लिए गाएं)
+Add Testimonial,Add Testimonial,Agregar testimonio,أضف شهادة,Afficher les informations,प्रशंसापत्र जोड़ें
+Edit Testimonial,Edit Testimonial,Editar testimonio,تحرير الشهادة,Lien vidéo,प्रशंसापत्र संपादित करें
+View Info,View Info,Ver información,عرض المعلومات,Page,जानकारी देखें
+Video Link,Video Link,Enlace de vídeo,رابط الفيديو,Nom de la page,वीडियो लिंक
+Page,Page,Página,صفحة,ID TRX,पेज
+Page Name,Page Name,Nombre de la página,اسم الصفحة,Charge,पेज का नाम
+TRX ID,TRX ID,Identificación TRX,معرف تي آر إكس,Après le chargement,टीआरएक्स आईडी
+Charge,Charge,Cargar,تكلفة,Payable,शुल्क
+After Charge,After Charge,Después de la carga,بعد الشحن,Informations sur les journaux,चार्ज के बाद
+Payable,Payable,Pagadero,مستحق الدفع,Confirmation approuvée,देय
+Information of Logs,Information of Logs,Información de registros,معلومات السجلات,Etes-vous sûr d'avoir approuvé cette demande ?,लॉग की जानकारी
+Approved Confirmation,Approved Confirmation,Confirmación aprobada,التأكيد المعتمد,Expliquer la raison du rejet,स्वीकृत पुष्टि
+Are you sure to approved this request?,Are you sure to approved this request?,¿Está seguro de haber aprobado esta solicitud?,هل أنت متأكد من الموافقة على هذا الطلب؟,Lien vers la politique,क्या आप निश्चित रूप से इस अनुरोध को स्वीकृत करेंगे?
+Explain Rejection Reason,Explain Rejection Reason,Explicar el motivo del rechazo,شرح سبب الرفض,Version,अस्वीकृति का कारण स्पष्ट करें
+Policy Link,Policy Link,Enlace de política,رابط السياسة,Environnement de l'application,नीति लिंक
+Version,Version,Versión,إصدار,Débogage de l'application,संस्करण
+App Environment,App Environment,Entorno de aplicación,بيئة التطبيق,Mode application,ऐप पर्यावरण
+App Debug,App Debug,Depuración de aplicaciones,تصحيح أخطاء التطبيق,Connexion à la base de données,ऐप डीबग
+App Mode,App Mode,Modo de aplicación,وضع التطبيق,Hôte de base de données,ऐप मोड
+Database Connection,Database Connection,Conexión de base de datos,اتصال قاعدة البيانات,Port de base de données,डेटाबेस कनेक्शन
+Database Host,Database Host,Host de base de datos,مضيف قاعدة البيانات,Nom de la base de données,डेटाबेस होस्ट
+Database Port,Database Port,Puerto de base de datos,منفذ قاعدة البيانات,Nom d'utilisateur de la base de données,डेटाबेस पोर्ट
+Database Name,Database Name,Nombre de la base de datos,اسم قاعدة البيانات,Version PHP,डेटाबेस का नाम
+Database Username,Database Username,Nombre de usuario de la base de datos,اسم مستخدم قاعدة البيانات,Version Laravel,डेटाबेस उपयोगकर्ता नाम
+PHP Version,PHP Version,Versión PHP,نسخة PHP,Logiciel serveur,पीएचपी संस्करण
+Laravel Version,Laravel Version,Versión Laravel,نسخة لارافيل,Adresse IP du serveur,लारवेल संस्करण
+Server Software,Server Software,Software de servidor,برامج الخادم,Protocole de serveur,सर्वर सॉफ्टवेयर
+Server IP Address,Server IP Address,Dirección IP del servidor,عنوان IP للخادم,Vérifié,सर्वर आईपी पता
+Server Protocol,Server Protocol,Protocolo de servidor,بروتوكول الخادم,Informations de l'utilisateur,सर्वर प्रोटोकॉल
+Verified,Verified,Verificado,تم التحقق منه,Paramètres d'activation,सत्यापित
+Information of User,Information of User,Información del Usuario,معلومات المستخدم,Activé,उपयोगकर्ता की जानकारी
+Activation Settings,Activation Settings,Configuración de activación,إعدادات التنشيط,Désactivé,सक्रियण सेटिंग्स
+Activated,Activated,Activado,تفعيلها,Tapez ici...,सक्रिय
+Deactivated,Deactivated,Desactivado,معطل,Recherche,निष्क्रिय
+Type Here...,Type Here...,Escriba aquí...,اكتب هنا...,URI,यहाँ टाइप करें...
+Search,Search,Buscar,يبحث,Ajouter une nouvelle autorisation,खोज
+URI,URI,URI,URI,Attribuer une page/tâche d'autorisation,यूआरआई
+Add New Permission,Add New Permission,Agregar nuevo permiso,إضافة إذن جديد,Nom de l'autorisation,नई अनुमति जोड़ें
+Assign Permission Page/Task,Assign Permission Page/Task,Asignar página/tarea de permiso,تعيين صفحة/مهمة إذن,Sélectionnez un rôle,अनुमति पृष्ठ/कार्य निर्दिष्ट करें
+Permission Name,Permission Name,Nombre del permiso,اسم الإذن,Choisissez-en un,अनुमति का नाम
+Select Role,Select Role,Seleccionar rol,حدد الدور,Modifier l'autorisation,भूमिका चुनें
+Choose One,Choose One,Elige uno,اختر واحدًا,Autorisation de rôle introuvable !,एक का चयन
+Edit Permission,Edit Permission,Editar permiso,تحرير إذن,Autorisation supprimée avec succès !,अनुमति संपादित करें
+Role permission not found!,Role permission not found!,¡Permiso de rol no encontrado!,لم يتم العثور على إذن الدور!,Autorisation introuvable !,भूमिका की अनुमति नहीं मिली!
+Permission deleted successfully!,Permission deleted successfully!,¡Permiso eliminado exitosamente!,تم حذف الإذن بنجاح!,Impossible de supprimer le super-administrateur système,अनुमति सफलतापूर्वक हटा दी गई!
+Permission not found!,Permission not found!,¡Permiso no encontrado!,لم يتم العثور على إذن!,Ajouter un nouveau rôle,अनुमति नहीं मिली!
+Can't deletable system super admin,Can't deletable system super admin,No se puede eliminar el superadministrador del sistema,لا يمكن حذف المشرف المتميز للنظام,Modifier le rôle,सिस्टम सुपर एडमिन को हटाया नहीं जा सकता
+Add New Role,Add New Role,Agregar nuevo rol,إضافة دور جديد,Tous les rôles d'administrateur,नई भूमिका जोड़ें
+Edit Role,Edit Role,Editar rol,تحرير الدور,Toutes les autorisations,भूमिका संपादित करें
+All Admin Roles,All Admin Roles,Todas las funciones de administrador,جميع أدوار المشرف,Optimisation des moteurs de recherche (SEO),सभी व्यवस्थापक भूमिकाएँ
+All Permissions,All Permissions,Todos los permisos,جميع الأذونات,Détails du don,सभी अनुमतियाँ
+Search Engine Optimization (SEO),Search Engine Optimization (SEO),Optimización de motores de búsqueda (SEO),تحسين محركات البحث (SEO),Image du profil d'administrateur,खोज इंजन अनुकूलन (एसईओ)
+Donation Details,Donation Details,Detalles de la donación,تفاصيل التبرع,Rôle,दान विवरण
+Admin Profile Image,Admin Profile Image,Imagen de perfil de administrador,صورة الملف الشخصي للمشرف,Générer,व्यवस्थापक प्रोफ़ाइल छवि
+Role,Role,Role,دور,Écrire le sujet...,भूमिका
+Generate,Generate,Generar,يولد,Envoyer un courrier test,उत्पन्न
+Write Subject...,Write Subject...,Escribir Asunto...,كتابة الموضوع...,Nom de la catégorie,विषय लिखें...
+Send Test Mail,Send Test Mail,Enviar correo de prueba,إرسال بريد الاختبار,Ajouter une catégorie,टेस्ट मेल भेजें
+Category Name,Category Name,Nombre de categoría,اسم الفئة,Sélectionner,श्रेणी नाम
+Add Category,Add Category,Agregar categoría,أضف فئة,Ajouter une nouvelle catégorie,श्रेणी जोड़ना
+Select,Select,Seleccionar,يختار,Modifier la catégorie,चुनना
+Add New Category,Add New Category,Agregar nueva categoría,إضافة فئة جديدة,Ajouter une solution,नई श्रेणी जोड़ें
+Edit Category,Edit Category,Editar categoría,تحرير الفئة,Modifier la solution,श्रेणी संपादित करें
+Add Solution,Add Solution,Agregar solución,أضف الحل,Ajouter une icône sociale,समाधान जोड़ें
+Edit Solution,Edit Solution,Editar solución,تحرير الحل,Ajouter une icône Socail,समाधान संपादित करें
+Add Social Icon,Add Social Icon,Agregar ícono social,إضافة أيقونة الاجتماعية,Mettre à jour l'extension,सामाजिक चिह्न जोड़ें
+Add Socail Icon,Add Socail Icon,Agregar icono de red social,إضافة أيقونة Socail,ID de propriété,सोकेल आइकन जोड़ें
+Update Extension,Update Extension,Actualizar extensión,تحديث التمديد,Identifiant du widget,एक्सटेंशन अपडेट करें
+Property ID,Property ID,ID de propiedad,معرف العقار,Porte,संपत्ति आईडी
+Widget ID,Widget ID,ID del widget,معرف القطعة,Devise prise en charge,विजेट आईडी
+Gateway,Gateway,Puerta,بوابة,Devise activée,द्वार
+Supported Currency,Supported Currency,Moneda admitida,العملة المدعومة,Désactivé,समर्थित मुद्रा
+Enabled Currency,Enabled Currency,Moneda habilitada,العملة الممكّنة,Type de devise,सक्षम मुद्रा
+Disabled,Disabled,Desactivado,عاجز,Nom de la passerelle,अक्षम
+Currency Type,Currency Type,Tipo de moneda,نوع العملة,Titre de la passerelle,मुद्रा प्रकार
+Gateway Name,Gateway Name,Nombre de la puerta de enlace,اسم البوابة,Devises prises en charge,गेटवे का नाम
+Gateway Title,Gateway Title,Título de la puerta de enlace,عنوان البوابة,Générer des champs,गेटवे शीर्षक
+Supported Currencies,Supported Currencies,Monedas admitidas,العملات المدعومة,Valeur,समर्थित मुद्राएँ
+Genarate Fields,Genarate Fields,Campos generados,توليد الحقول,Image de la passerelle,फ़ील्ड जनरेट करें
+Value,Value,Valor,قيمة,Environnement de passerelle,कीमत
+Gateway Image,Gateway Image,Imagen de puerta de enlace,صورة البوابة,Devise totale prise en charge,गेटवे छवि
+Gateway Environment,Gateway Environment,Entorno de puerta de enlace,بيئة البوابة,Limite de montant,गेटवे पर्यावरण
+Total Supported Currency,Total Supported Currency,Moneda total admitida,إجمالي العملة المدعومة,Minimum,कुल समर्थित मुद्रा
+Amount Limit,Amount Limit,Límite de cantidad,حد المبلغ,Maximum,राशि सीमा
+Minimum,Minimum,Mínimo,الحد الأدنى,Fixé,न्यूनतम
+Maximum,Maximum,Máximo,الحد الأقصى,Pour cent,अधिकतम
+Fixed,Fixed,Fijado,مُثَبَّت,Code de devise,तय
+Percent,Percent,Por ciento,نسبة مئوية,Symbole monétaire,प्रतिशत
+Currency Code,Currency Code,Código de moneda,رمز العملة,Nom de la devise,मुद्रा कोड
+Currency Symbol,Currency Symbol,Símbolo de moneda,رمز العملة,Collecter des données,मुद्रा चिह्न
+Currency Name,Currency Name,Nombre de la moneda,اسم العملة,Texte de saisie,मुद्रा का नाम
+Collect Data,Collect Data,Recopilar datos,جمع البيانات,Déposer,डेटा जुटाओ
+Input Text,Input Text,Texto de entrada,إدخال النص,Zone de texte,इनपुट पाठ
+File,File,Archivo,ملف,Nécessité sur le terrain,फ़ाइल
+Textarea,Textarea,área de texto,منطقة النص,Requis,पाठ क्षेत्र
+Field Necessity,Field Necessity,Necesidad de campo,ضرورة المجال,Ajouter une page,फ़ील्ड आवश्यकता
+Required,Required,Requerido,مطلوب,Mode sombre,आवश्यक
+Add Page,Add Page,Agregar página,إضافة صفحة,Couleur de la barre supérieure,पृष्ठ जोड़ें
+Dark Mode,Dark Mode,Modo oscuro,الوضع المظلم,Mode lumière,डार्क मोड
+Topbar Color,Topbar Color,Color de la barra superior,لون الشريط العلوي,Couleur de la barre latérale,टॉपबार रंग
+Light Mode,Light Mode,Modo de luz,وضع الضوء,Couleur minimale de la barre latérale,लाइट मोड
+Sidebar Color,Sidebar Color,Color de la barra lateral,لون الشريط الجانبي,Aucune nouvelle notification trouvée !,साइडबार का रंग
+Min Sidebar Color,Min Sidebar Color,Color mínimo de la barra lateral,الحد الأدنى للون الشريط الجانبي,Image de profil,न्यूनतम साइडबार रंग
+No new notification found!,No new notification found!,¡No se encontró ninguna notificación nueva!,لم يتم العثور على إشعار جديد!,Sélectionnez un pays,कोई नई अधिसूचना नहीं मिली!
+Profile Image,Profile Image,Imagen de perfil,صورة الملف الشخصي,Sélectionnez l'État,प्रोफ़ाइल छवि
+Select Country,Select Country,Seleccionar país,اختر البلد,Sélectionnez la ville,देश चुनें
+Select State,Select State,Seleccionar estado,اختر الدولة,Enregistrer et modifier,राज्य चुनें
+Select City,Select City,Seleccionar ciudad,اختر المدينة,J'ai lu d'accord avec le,शहर चुनें
+Save & Change,Save & Change,Guardar y cambiar,حفظ وتغيير,Entrez le code de vérification,परिवर्तन को संग्रहित करें
+I have read agreed with the,I have read agreed with the,He leído de acuerdo con el,لقد قرأت الاتفاق مع,Je n'obtiens pas de code,मैंने इससे सहमत होकर पढ़ा है
+Enter Verification Code,Enter Verification Code,Ingrese el código de verificación,أدخل رمز التحقق,Renvoyer,सत्यापन कोड दर्ज करें
+Don't get code,Don't get code,No obtener código,لا تحصل على الرمز,Entrez votre don,कोड नहीं मिलता
+Resend,Resend,Reenviar,إعادة الإرسال,Sélectionnez le montant,पुन: भेजें
+Enter your donation,Enter your donation,Ingresa tu donación,أدخل تبرعك,Aucune catégorie trouvée,अपना दान दर्ज करें
+Select the amount,Select the amount,Selecciona la cantidad,حدد المبلغ,Aucune FAQ trouvée,राशि का चयन करें
+No Category Found,No Category Found,No se encontró ninguna categoría,لم يتم العثور على فئة,Montant,कोई श्रेणी नहीं मिली
+No FAQ Found,No FAQ Found,No se encontraron preguntas frecuentes,لم يتم العثور على الأسئلة الشائعة,Devise,कोई FAQ नहीं मिला
+appLAmount,Amount,Cantidad,كمية,Titre,मात्रा
+appLCurrency,Currency,Divisa,عملة,Taper,मुद्रा
+appLTitle,Title,Título,عنوان,Trx,शीर्षक
+appLType,Type,Tipo,يكتب,Alerte de déconnexion,प्रकार
+appLTrx,Trx,trx,تركس,Voulez-vous vous déconnecter ?,क्लीन स्टार्ट
+appLSignOutAlert,Sign Out Alert,Alerta de cierre de sesión,تنبيه تسجيل الخروج,Oui,साइन आउट चेतावनी
+appLDoYouWantSignOut,Do You Want Sign Out?,¿Quieres cerrar sesión?,هل تريد تسجيل الخروج؟,Non,क्या आप साइन आउट करना चाहते हैं?
+appLYes,Yes,Sí,نعم,Rejeter,हाँ
+appLNo,No,No,لا,Alerte,नहीं
+appLDismiss,Dismiss,Despedir,رفض,Succès,नकार देना
+appLAlert,Alert,Alerta,يُحذًِر,Voulez-vous supprimer ?,चेतावनी
+appLSuccess,Success,Éxito,نجاح,Supprimer l'alerte,सफलता
+appldoyouwanttodelete,Do you want to delete?,¿Quieres eliminar?,هل تريد الحذف؟,Supprimer,क्या आप हटाना चाहते हैं?
+appldeletealert,Delete Alert,Eliminar alerta,حذف التنبيه,Politique de confidentialité,चेतावनी हटाएँ
+appldelete,Delete,Borrar,يمسح,Votre compte a été supprimé avec succès !,मिटाना
+appLPrivacyAndPolicy,Privacy & Policy,Política de privacidad,سياسة الخصوصية,Êtes-vous sûr de,गोपनीयता नीति
+Your account deleted successfully!,Your account deleted successfully!,¡Tu cuenta se eliminó exitosamente!,تم حذف حسابك بنجاح!,Entretien du système,आपका खाता सफलतापूर्वक हटा दिया गया!
+ru sure to,Are you sure to,¿Estás seguro de,هل أنت متأكد من ذلك,Redémarrage,क्या आप निश्चित हैं
+System Maintenance,System Maintenance,Mantenimiento del sistema,صيانة النظام,#VALUE!,प्रणाली रखरखाव
+appLRestart,Restart,Reanudar,إعادة تشغيل,#VALUE!,पुनः आरंभ करें

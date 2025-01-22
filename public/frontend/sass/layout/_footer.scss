@@ -1,0 +1,167 @@
+/*--------------------------------------------------------------
+# Footer-block
+--------------------------------------------------------------*/
+.footer-section{
+  position: relative;
+  padding-top: 200px;
+  @media only screen and (max-width: 1199px) {
+    padding-top: 150px;
+  }
+  @media only screen and (max-width: 575px) {
+    padding-top: 100px;
+  }
+  .footer-shape{
+    position: absolute;
+    top: -10px;
+    left: 0;
+  }
+}
+.footer-logo{
+  margin-bottom: 30px;
+  a{
+    margin: 0 auto;
+    padding: 0;
+    border: none;
+  }
+}
+.footer-widget{
+  .title{
+    color: $white;
+    position: relative;
+    font-family: $font_heading;
+    margin-bottom: 30px;
+  }
+  .footer-shpae{
+    width: 140px;
+    margin-bottom: 20px;
+  }
+  p{
+    color: $white;
+    font-size: 14px;
+    line-height: 2;
+  }
+}
+.newsletter-form{
+  position: relative;
+  margin-top: 30px;
+  input{
+    background-color: rgba($white,0.1) !important;
+    border: none !important;
+    border-radius: 15px;
+    padding: 15px 25px;
+    height: 55px;
+    color: #858687 !important;
+    font-weight: 400;
+    font-family: $font_body;
+    font-size: 14px;
+    &::placeholder{
+      color: #858687;
+    }
+  }
+  button{
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 15px;
+    font-family: $font_sub_heading;
+    font-size: 18px;
+    letter-spacing: 1px;
+    padding: 15px 35px;
+  }
+}
+.footer-list{
+  li{
+    color: $white;
+    font-size: 14px;
+    padding-left: 20px;
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+    position: relative;
+    border-bottom: 1px dashed rgba($white,0.1);
+    transition: all 0.3s;
+    &:hover{
+      color: $base--color;
+      i{
+        color: $base--color;
+      }
+    }
+    &:last-child{
+      border: none;
+      padding-bottom: 0;
+      margin-bottom: 0;
+    }
+    a{
+      display: block;
+    }
+    &::before{
+      position: absolute;
+      content: '';
+      top: 7px;
+      left: 0;
+      width: 10px;
+      height: 10px;
+      border-radius: 100px;
+      background-color: $base--color;
+    }
+    i{
+      position: relative;
+      top: 4px;
+      color: $white;
+      float: right;
+      transition: all 0.3s;
+    }
+  }
+}
+.social-area{
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+  span{
+    color: $white;
+    margin-right: 15px;
+  }
+}
+.footer-social li {
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 50%;
+  background: transparent;
+  background-color: rgba($white,0.1);
+  // border: 2px solid rgba($white,0.1);
+  color: $white;
+  font-size: 12px;
+  transition: all 0.3s;
+  &.active,
+  &:hover{
+    color: $white;
+    background-color: $base--color;
+  }
+}
+.footer-social li + li {
+  margin-left: 10px;
+}
+.copyright-area{
+  padding: 30px 0;
+  text-align: center;
+  border-top: 1px solid rgba($white,0.1);
+  margin-top: 100px;
+  p{
+    font-size: 16px;
+    letter-spacing: 2px;
+    margin-bottom: 0;
+    color: $white;
+    font-family: $font_heading;
+    @media only screen and (max-width: 575px) {
+      font-size: 14px;
+    }
+    span{
+      color: $base--color;
+      font-size: 18px;
+      letter-spacing: 1px;
+      font-family: $font_sub_heading;
+    }
+  }
+}
