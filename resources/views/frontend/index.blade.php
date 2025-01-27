@@ -29,7 +29,7 @@
 
 @push('css')
     <style>
-        
+
 
     </style>
 @endpush
@@ -103,25 +103,34 @@
         <div class="row justify-content-center mb-30-none">
 
 
-                @forelse ($service_section?->value?->items ?? [] as $key => $item)
-
-                    <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
-                        <div class="service-item">
-                            <div class="service-icon">
-                                <i class="{{ @$item->language?->$defualt?->service_icon ?? ''  }}"></i>
-                            </div>
-                            <div class="service-content">
-                                <h3 class="title">
-                                    <a href="{{ route('about') }}">{{ @$item->language?->$defualt?->heading ?? @$item->language?->$default_lng?->heading }}</a>
-                                </h3>
-                                <p>{{ @$item->language?->$defualt?->description ?? @$item->language?->$default_lng?->description }}</p>
-                            </div>
+            @forelse ($service_section?->value?->items ?? [] as $key => $item)
+                <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
+                    <div class="service-item">
+                        <div class="service-icon">
+                            <i class="{{ $item->language?->$defualt?->service_icon ?? $item->language?->$default_lng?->service_icon ?? '' }}"></i>
+                        </div>
+                        <div class="service-content">
+                            <h3 class="title">
+                                <a href="
+                                    @if ($loop->first)
+                                        {{ route('about') }}
+                                    @elseif ($loop->iteration == 2)
+                                        {{ "#volunteer" }}
+                                    @else
+                                        {{ route('donation') }}
+                                    @endif
+                                ">
+                                    {{ $item->language?->$defualt?->heading ?? $item->language?->$default_lng?->heading }}
+                                </a>
+                            </h3>
+                            <p>{{ $item->language?->$defualt?->description ?? $item->language?->$default_lng?->description }}</p>
                         </div>
                     </div>
+                </div>
+            @empty
+                <p class="text-center">{{ __('No services available at the moment') }}</p>
+            @endforelse
 
-                @empty
-                    <p class="text-center">{{ __('No services available at the moment') }}</p>
-                @endforelse
 
         </div>
     </div>
@@ -331,7 +340,7 @@
                         </div>
                     </nav>
                     <div class="tab-content" id="nav-tabContent">
-                        
+
                         @foreach ($overview_right_section?->value?->items ?? [] as $key => $item)
                             <div class="tab-pane fade @if ($loop->first) show active @endif" id="target-{{$key}}" role="tabpanel" aria-labelledby="software-tab">
                                 <div class="choose-item">
@@ -342,7 +351,7 @@
                                         <p>{{ $item->language?->$defualt->details ?? $item->language?->$default_lng->details }}</p>
                                     </div>
                                 </div>
-                            </div> 
+                            </div>
                         @endforeach
 
                     </div>

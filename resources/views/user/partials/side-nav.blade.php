@@ -51,7 +51,7 @@
                 </a>
             </li>
             <li class="sidebar-single-menu nav-item">
-                <a href="{{ route('campaign') }}">
+                <a href="{{ route('donation') }}">
                     <i class="las la-list"></i>
                     <span class="title">{{ __('Donate') }}</span>
                 </a>
