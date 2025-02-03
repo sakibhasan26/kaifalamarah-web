@@ -26,9 +26,16 @@
                                 @endphp
                                 <div class="form-group">
                                     @include('admin.components.form.input',[
-                                        'label'     => __("Title")."",
+                                        'label'     => __("Title")."*",
                                         'name'      => $default_lang_code . "_title",
                                         'value'     => old($default_lang_code . "_title",$data->value->language->$default_lang_code->title ?? "")
+                                    ])
+                                </div>
+                                <div class="form-group">
+                                    @include('admin.components.form.input',[
+                                        'label'     => __("Link")."",
+                                        'name'      => $default_lang_code . "_link",
+                                        'value'     => old($default_lang_code . "_link",$data->value->language->$default_lang_code->link ?? "")
                                     ])
                                 </div>
 
@@ -44,6 +51,13 @@
                                             'label'     => __("Title")."*",
                                             'name'      => $lang_code . "_title",
                                             'value'     => old($lang_code . "_title",$data->value->language->$lang_code->title ?? "")
+                                        ])
+                                    </div>
+                                    <div class="form-group">
+                                        @include('admin.components.form.input',[
+                                            'label'     => __("Link")."*",
+                                            'name'      => $lang_code . "_link",
+                                            'value'     => old($lang_code . "_link",$data->value->language->$lang_code->link ?? "")
                                         ])
                                     </div>
                                 </div>

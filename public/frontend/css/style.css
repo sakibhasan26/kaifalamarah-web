@@ -3725,7 +3725,7 @@ html {
 
   .gallery-item .thumb {
     position: relative;
-    height: 600px;
+    height: 300px;
     overflow: hidden;
   }
   .gallery-item .thumb img {
@@ -3733,6 +3733,7 @@ html {
     height: 100%;
     -o-object-fit: cover;
        object-fit: cover;
+       object-position: top;
   }
   .gallery-item .thumb a {
     display: block;

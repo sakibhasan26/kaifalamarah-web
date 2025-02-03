@@ -35,7 +35,7 @@
                 <div class="about-content">
                     <div class="sub-title">{{ __(@$about->value->language->$defualt->fitst_section_title??@$about->value->language->$default_lng->fitst_section_title) }}</div>
                     <h2 class="title">{{ __( @$about->value->language->$defualt->fitst_section_heading ?? @$about->value->language->$default_lng->fitst_section_heading) }}</h2>
-                    <p>{{ __(@$about->value->language->$defualt->first_section_sub_heading ?? @$about->value->language->$default_lng->first_section_sub_heading) }}</p>
+                    <p>{!! __(@$about->value->language->$defualt->first_section_sub_heading ?? @$about->value->language->$default_lng->first_section_sub_heading) !!}</p>
                     <div class="about-btn">
                         <a href="{{ url(@$about->value->language->$default_lng->first_section_button_link) }}" class="btn--base"><i class="las la-heart"></i> {{ __(@$about->value->language->$defualt->first_section_button_name??@$about->value->language->$default_lng->first_section_button_name) }}</a>
                     </div>
@@ -63,7 +63,7 @@
                     <ul class="about-list">
                         @if(isset($about->value->items))
                             @foreach($about->value->items ?? [] as $key => $item)
-                                <li>{{__( $item->language->$defualt->title ?? $item->language->$default_lng->title) }}</li>
+                                <li> <a href="{{ @$item->language->$defualt->link ?? $item->language->$default_lng->link }}">{{__( $item->language->$defualt->title ?? $item->language->$default_lng->title) }}</a> </li>
                             @endforeach
                         @endif
                     </ul>
@@ -95,7 +95,7 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Start Testimonial
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-@include('frontend.partials.testimonial')
+{{-- @include('frontend.partials.testimonial') --}}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     End Testimonial
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->

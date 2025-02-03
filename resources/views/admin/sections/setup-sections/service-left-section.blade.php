@@ -42,7 +42,7 @@
         <form class="card-form" action="{{ setRoute('admin.setup.sections.section.update',$slug) }}" method="POST" enctype="multipart/form-data">
             @csrf
             <div class="row justify-content-center mb-10-none">
-                
+
                 <div class="col-xl-12 col-lg-12">
                     <div class="product-tab">
                         <nav>
@@ -55,7 +55,7 @@
                         </nav>
                         <div class="tab-content" id="nav-tabContent">
                             <div class="tab-pane @if (get_default_language_code() == language_const()::NOT_REMOVABLE) fade show active @endif" id="english" role="tabpanel" aria-labelledby="english-tab">
-                            
+
                                 <div class="form-group">
                                     @include('admin.components.form.input',[
                                         'label'     => __("Title")."*",
@@ -77,7 +77,7 @@
                                             'value'     => old($lang_code . "_title",$data->value->language->$lang_code->title ?? "")
                                         ])
                                     </div>
-                                   
+
                                 </div>
                             @endforeach
                         </div>
@@ -99,7 +99,7 @@
     <div class="table-wrapper">
         <div class="table-header justify-content-end">
             <div class="table-btn-area">
-                <a href="#about-add" class="btn--base modal-btn"><i class="fas fa-plus me-1"></i> {{ __("Add New") }}</a>
+                <a href="{{route('admin.setup.sections.overview-left-section.create')}}" class="btn--base modal-btn"><i class="fas fa-plus me-1"></i> {{ __("Add New") }}</a>
             </div>
         </div>
         <div class="table-responsive">
@@ -120,7 +120,7 @@
                             {{-- <td>{{ $item->language->$system_default_lang->title ?? "" }}</td> --}}
                             <td> {!! Str::limit($item->language->$system_default_lang->details ?? "", 80, '...')  !!}</td>
                             <td>
-                                <button class="btn btn--base edit-modal-button"><i class="las la-pencil-alt"></i></button>
+                                <a href="{{ route('admin.setup.sections.overview-left-section.edit',[$item->id]) }}" class="btn btn--base"><i class="las la-pencil-alt"></i></a>
                                 <button class="btn btn--base btn--danger delete-modal-button" ><i class="las la-trash-alt"></i></button>
                             </td>
                         </tr>
@@ -167,13 +167,7 @@
                                         'value'     => old($default_lang_code . "_heading"),
                                     ])
                                 </div>
-                                {{-- <div class="form-group">
-                                    @include('admin.components.form.input',[
-                                        'label'     => __("Title")."*",
-                                        'name'      => $default_lang_code . "_title",
-                                        'value'     => old($default_lang_code . "_title")
-                                    ])
-                                </div> --}}
+
 
                                 <div class="form-group">
                                     <div class="form-group">
@@ -231,7 +225,7 @@
 <div id="about-edit" class="mfp-hide large">
     <div class="modal-data">
         <div class="modal-header px-0">
-            <h5 class="modal-title">{{ __("Edit Solution") }}</h5>
+            <h5 class="modal-title">{{ __("Edit Section") }}</h5>
         </div>
         <div class="modal-form-data">
             <form class="modal-form" method="POST" action="{{ setRoute('admin.setup.sections.section.item.update',$slug) }}" enctype="multipart/form-data">
@@ -251,7 +245,7 @@
                         <div class="tab-content" id="nav-tabContent">
 
                             <div class="tab-pane @if (get_default_language_code() == language_const()::NOT_REMOVABLE) fade show active @endif" id="edit-modal-english" role="tabpanel" aria-labelledby="edit-modal-english-tab">
-                            
+
                                 <div class="form-group">
                                     @include('admin.components.form.input',[
                                         'label'     => __("Heading")."*",
@@ -259,17 +253,10 @@
                                         'value'     => old($default_lang_code . "_heading_edit"),
                                     ])
                                 </div>
-                                {{-- <div class="form-group">
-                                    @include('admin.components.form.input',[
-                                        'label'     => __("Title")."*",
-                                        'name'      => $default_lang_code . "_title_edit",
-                                        'value'     => old($default_lang_code . "_title_edit")
-                                    ])
-                                </div> --}}
 
                                 <div class="form-group">
                                     <label>{{ __("Details") }}*</label>
-                                    <textarea name="{{ $default_lang_code . "_details_edit" }}" class="form--control">
+                                    <textarea name="{{ $default_lang_code . "_details_edit" }}" class="form--control rich-text-editor">
                                         {!! old($default_lang_code . "_details", $data->details->language->$default_lang_code->details ?? "") !!}
                                     </textarea>
                                 </div>
@@ -283,7 +270,7 @@
                                     $lang_code = $item->code;
                                 @endphp
                                 <div class="tab-pane @if (get_default_language_code() == $item->code) fade show active @endif" id="edit-modal-{{ $item->name }}" role="tabpanel" aria-labelledby="edit-modal-{{$item->name}}-tab">
-                                
+
                                     <div class="form-group">
                                         @include('admin.components.form.input',[
                                             'label'     => __("Heading")."*",
@@ -291,13 +278,6 @@
                                             'value'     => old($lang_code . "_heading_edit"),
                                         ])
                                     </div>
-                                    {{-- <div class="form-group">
-                                        @include('admin.components.form.input',[
-                                            'label'     => __("Heading")."*",
-                                            'name'      => $lang_code . "_title_edit",
-                                            'value'     => old($lang_code . "_title_edit")
-                                        ])
-                                    </div> --}}
 
                                     <div class="form-group">
                                         <label>{{ __("Details") }}*</label>
@@ -351,7 +331,7 @@
             var oldData = JSON.parse($(this).parents("tr").attr("data-item"));
             var editModal = $("#about-edit");
             console.log('OK'+oldData.language[default_language].details);
-            
+
             editModal.find("form").first().find("input[name=target]").val(oldData.id);
             editModal.find("input[name="+default_language+"_heading_edit]").val(oldData.language[default_language].heading);
             editModal.find("input[name="+default_language+"_title_edit]").val(oldData.language[default_language].title);

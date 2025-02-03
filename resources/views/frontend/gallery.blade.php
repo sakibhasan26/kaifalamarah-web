@@ -28,7 +28,7 @@
                     $count = 0;
                 @endphp
                 @foreach($gallery->value->items ?? [] as $key => $item)
-                <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="col-xl-3 col-lg-4 col-md-6">
                     <div class="gallery-item">
                         <div class="thumb">
                             <img src="{{ get_image(@$item->image,'site-section') }}" alt="gallery">
@@ -46,7 +46,7 @@
                 </div>
                 @php
                     $count++;
-                    if ($count == 3) {
+                    if ($count == 4) {
                         break;
                     }
                 @endphp

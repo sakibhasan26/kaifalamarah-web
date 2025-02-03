@@ -168,7 +168,7 @@
                     <div class="chart-area-header">
                         <h5 class="title">{{ __('Campaign And Event Analytics') }}</h5>
                         <div>
-                            <a href="{{ setRoute('campaign') }}" class="btn--base--sm modal-btn"> {{ __('View Campaign') }}</a>
+                            <a href="{{ setRoute('donation') }}" class="btn--base--sm modal-btn"> {{ __('View Donation') }}</a>
                             <a href="{{ setRoute('events') }}" class="btn--base--sm modal-btn"> {{ __('View Event') }}</a>
                         </div>
                     </div>

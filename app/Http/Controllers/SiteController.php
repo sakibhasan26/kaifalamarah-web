@@ -54,7 +54,7 @@ class SiteController extends Controller
     }
     public function about(){
         $page_title = __('About');
-        $sub_page_title = "About Foundation";
+        $sub_page_title = __("About Kaifala Marah");
         $section_slug = Str::slug(SiteSectionConst::ABOUT_SECTION);
         $about = SiteSections::getData( $section_slug)->first();
         return view('frontend.about',compact('page_title','sub_page_title','about'));

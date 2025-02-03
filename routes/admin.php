@@ -247,6 +247,14 @@ Route::prefix('admin')->name('admin.')->group(function () {
         Route::put('faq/status/update','faqStatusUpdate')->name('faq.status.update');
         Route::put('faq/update', 'faqUpdate')->name('faq.update');
         Route::delete('faq/delete','faqDelete')->name('faq.delete');
+
+        // overview left sdection
+        Route::get('overview-left-section/create','overviewLeftItemCreate')->name('overview-left-section.create');
+        Route::post('overview-left-section/store','overviewLeftItemStore')->name('overview-left-section.store');
+        Route::get('overview-left-section/edit/{id}','overviewLeftItemEdit')->name('overview-left-section.edit');
+        Route::put('overview-left-section/update','overviewLeftItemUpadte')->name('overview-left-section.update');
+        Route::put('overview-left-section/delete','overviewLeftItemDelete')->name('overview-left-section.delete');
+
     });
 
     // Campaign

@@ -557,13 +557,8 @@ class SetupSectionsController extends Controller
         ));
     }
 
-       /**
-     * Mehtod for update solutions section information
-     * @param string $slug
-     * @param \Illuminate\Http\Request  $request
-     */
     public function overviewLeftUpdate(Request $request,$slug) {
-       
+
         $basic_field_name = [
             'title' => "required|string|max:300",
         ];
@@ -575,7 +570,7 @@ class SetupSectionsController extends Controller
         }else {
             $data = [];
         }
-        
+
         $data['language']  = $this->contentValidate($request,$basic_field_name);
 
         $update_data['key']    = $slug;
@@ -591,13 +586,18 @@ class SetupSectionsController extends Controller
     }
 
 
+    public function overviewLeftItemCreate() {
+        $page_title = __("Create Overview");
+        $languages = $this->languages;
+        return view('admin.sections.overview-left-section.store',compact('page_title','languages'));
+    }
 
-    public function overviewLeftItemStore(Request $request,$slug) {
-        
+
+    public function overviewLeftItemStore(Request $request) {
+
         $basic_field_name = [
-            'heading' => "required|string|max:255",
-            // 'title' => "required|string|max:300",
-            'details' => "required|string|max:500",
+            'heading' => "required|string|max:500",
+            'details' => "required|string|max:1000",
         ];
 
         $language_wise_data = $this->contentValidate($request,$basic_field_name,"about-add");
@@ -628,11 +628,26 @@ class SetupSectionsController extends Controller
     }
 
 
-    public function overviewLeftItemUpdate(Request $request,$slug) {
+    public function overviewLeftItemEdit($id) {
+        $page_title = __('Edit Overview');
+        $slug = Str::slug(SiteSectionConst::OVERVIEW_LEFT_SECTION);
+        $section = SiteSections::getData($slug)->first();
+        if (!$section) return back()->with(['error' => ['Section not found!']]);
+        $section_values = json_decode(json_encode($section->value), true);
+        if (!isset($section_values['items'])) return back()->with(['error' => ['Over item not found!']]);
+        $section_language =  $section_values['items'][$id];
+        $languages = $this->languages;
+
+        return  view('admin.sections.overview-left-section.edit',compact('page_title','section_language','id','languages'));
+    }
+
+
+    public function overviewLeftItemUpadte(Request $request) {
+        // dd($request->all());
         $basic_field_name = [
-            'heading_edit' => "required|string|max:255",
+            'heading' => "required|string|max:255",
             // 'title_edit'   => "required|string|max:300",
-            'details_edit' => "required|string|max:500",
+            'details' => "required|string|max:500",
         ];
 
         $slug = Str::slug(SiteSectionConst::OVERVIEW_LEFT_SECTION);
@@ -645,9 +660,9 @@ class SetupSectionsController extends Controller
         $language_wise_data = $this->contentValidate($request, $basic_field_name, "about-edit");
         if ($language_wise_data instanceof RedirectResponse) return $language_wise_data;
 
-        $language_wise_data = array_map(function ($language) {
-            return replace_array_key($language, "_edit");
-        }, $language_wise_data);
+        // $language_wise_data = array_map(function ($language) {
+        //     return replace_array_key($language, "_edit");
+        // }, $language_wise_data);
 
         $section_values['items'][$request->target]['language'] = $language_wise_data;
 
@@ -717,7 +732,7 @@ class SetupSectionsController extends Controller
      * @param \Illuminate\Http\Request  $request
      */
     public function overviewRightUpdate(Request $request,$slug) {
-       
+
         $basic_field_name = [
             'title' => "required|string|max:300",
         ];
@@ -729,7 +744,7 @@ class SetupSectionsController extends Controller
         }else {
             $data = [];
         }
-        
+
         $data['language']  = $this->contentValidate($request,$basic_field_name);
 
         $update_data['key']    = $slug;
@@ -1054,7 +1069,8 @@ class SetupSectionsController extends Controller
      */
     public function aboutItemStore(Request $request,$slug) {
         $basic_field_name = [
-            'title'     => "required|string|max:255"
+            'title'     => "required|string|max:255",
+            'link'     => "required|string|max:255"
         ];
 
         $language_wise_data = $this->contentValidate($request,$basic_field_name,"about-add");
@@ -1090,12 +1106,14 @@ class SetupSectionsController extends Controller
      * @param \Illuminate\Http\Request  $request
      */
     public function aboutItemUpdate(Request $request,$slug) {
+     
         $request->validate([
             'target'    => "required|string",
         ]);
 
         $basic_field_name = [
-            'title_edit'     => "required|string|max:255"
+            'title_edit'     => "required|string|max:300",
+            'link_edit'     => "required|string|max:255"
         ];
 
         $slug = Str::slug(SiteSectionConst::ABOUT_SECTION);

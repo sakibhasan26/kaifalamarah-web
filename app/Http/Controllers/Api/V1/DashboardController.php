@@ -371,7 +371,7 @@ class DashboardController extends Controller
 
             $images = $about->images;
             $details = [
-                'fitst_section_title' => isset($about->language->$lang) ? $about->language->$lang->fitst_section_title : $about->language->$default->fitst_section_title,
+                // 'fitst_section_title' => isset($about->language->$lang) ? $about->language->$lang->fitst_section_title : $about->language->$default->fitst_section_title,
                 'fitst_section_heading' => isset($about->language->$lang) ? $about->language->$lang->fitst_section_heading : $about->language->$default->fitst_section_heading,
                 'first_section_sub_heading' => isset($about->language->$lang) ? $about->language->$lang->first_section_sub_heading : $about->language->$default->first_section_sub_heading,
                 'first_section_button_name' => isset($about->language->$lang) ? $about->language->$lang->first_section_button_name : $about->language->$default->first_section_button_name,

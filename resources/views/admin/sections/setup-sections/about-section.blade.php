@@ -90,7 +90,8 @@
                                         @include('admin.components.form.textarea',[
                                             'label'     => __("Sub Heading (First Section)")."*",
                                             'name'      => $default_lang_code . "_first_section_sub_heading",
-                                            'value'     => old($default_lang_code . "_first_section_sub_heading",$data->value->language->$default_lang_code->first_section_sub_heading ?? "")
+                                            'value'     => old($default_lang_code . "_first_section_sub_heading",$data->value->language->$default_lang_code->first_section_sub_heading ?? ""),
+                                            'class'    => "rich-text-editor"
                                         ])
                                     </div>
                                     <div class="form-group">
@@ -212,7 +213,7 @@
             </form>
         </div>
     </div>
-    
+
     <div class="table-area mt-15">
         <div class="table-wrapper">
             <div class="table-header justify-content-end">
@@ -255,7 +256,7 @@
     <div id="about-edit" class="mfp-hide large">
         <div class="modal-data">
             <div class="modal-header px-0">
-                <h5 class="modal-title">{{ __("Edit Solution") }}</h5>
+                <h5 class="modal-title">{{ __("Edit Item") }}</h5>
             </div>
             <div class="modal-form-data">
                 <form class="modal-form" method="POST" action="{{ setRoute('admin.setup.sections.section.item.update',$slug) }}" enctype="multipart/form-data">
@@ -282,6 +283,13 @@
                                             'value'     => old($default_lang_code . "_title_edit",$data->value->language->$default_lang_code->title ?? "")
                                         ])
                                     </div>
+                                    <div class="form-group">
+                                        @include('admin.components.form.input',[
+                                            'label'     => __("Link")."",
+                                            'name'      => $default_lang_code . "_link_edit",
+                                            'value'     => old($default_lang_code . "_link_edit",$data->value->language->$default_lang_code->link ?? "")
+                                        ])
+                                    </div>
 
                                 </div>
 
@@ -295,6 +303,13 @@
                                                 'label'     => __("Title")."*",
                                                 'name'      => $lang_code . "_title_edit",
                                                 'value'     => old($lang_code . "_title_edit",$data->value->language->$lang_code->title ?? "")
+                                            ])
+                                        </div>
+                                        <div class="form-group">
+                                            @include('admin.components.form.input',[
+                                                'label'     => __("Link")."*",
+                                                'name'      => $lang_code . "_link_edit",
+                                                'value'     => old($lang_code . "_link_edit",$data->value->language->$lang_code->link ?? "")
                                             ])
                                         </div>
 
@@ -332,8 +347,10 @@
 
             editModal.find("form").first().find("input[name=target]").val(oldData.id);
             editModal.find("input[name="+default_language+"_title_edit]").val(oldData.language[default_language].title);
+            editModal.find("input[name="+default_language+"_link_edit]").val(oldData.language[default_language].link);
             $.each(languages,function(index,item) {
                 editModal.find("input[name="+item.code+"_title_edit]").val((oldData.language[item.code] == undefined) ? "" : oldData.language[item.code].title);
+                editModal.find("input[name="+item.code+"_link_edit]").val((oldData.language[item.code] == undefined) ? "" : oldData.language[item.code].link);
             });
 
             openModalBySelector("#about-edit");

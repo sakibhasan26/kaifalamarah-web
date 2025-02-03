@@ -40,7 +40,7 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 
-<section class="banner-section bg-overlay-base bg_img" data-background="{{ asset('public/frontend/') }}/images/banner/banner-bg.png">
+<section class="banner-section bg-overlay-base bg_img" data-background="{{ asset('public/frontend/') }}/images/banner/banner-bg.jpg">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-xl-6 col-lg-7 col-md-12">
@@ -143,7 +143,7 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Start Call To Action
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<section class="call-to-action-section bg-overlay-base bg_img" data-background="{{ asset('public/frontend/') }}/images/banner/inner-bg.png" id="volunteer">
+<section class="call-to-action-section bg-overlay-base bg_img" data-background="{{ asset('public/frontend/') }}/images/banner/banner-bg.jpg" id="volunteer">
     <div class="call-to-action-bottom-shape">
         <img src="{{ asset('public/frontend/') }}/images/banner/bottom-shape.png" alt="shape">
     </div>
@@ -223,7 +223,7 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Start Statistics
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<section class="statistics-section bg-overlay-base bg_img" data-background="{{ get_image('statistics_bg.png','site-section') }}">
+<section class="statistics-section bg-overlay-base bg_img" data-background="{{ asset('public/frontend/') }}/images/banner/banner-bg.jpg">
     <div class="statistics-bottom-shape">
         <img src="{{ asset('public/frontend/') }}/images/banner/bottom-shape.png" alt="shape">
     </div>
@@ -314,7 +314,7 @@
                             <div class="faq-content">
                                 <ul>
                                     <li>
-                                        {{ @$item->language?->$defualt->details ?? @$item->language?->$default_lng->details }}
+                                        {!! @$item->language?->$defualt->details ?? @$item->language?->$default_lng->details !!}
                                     </li>
                                 </ul>
                             </div>
