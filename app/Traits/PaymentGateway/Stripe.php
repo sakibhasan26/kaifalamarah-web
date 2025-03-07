@@ -224,7 +224,6 @@ trait Stripe
         ]);
     }
     public function stripeSuccess($output = null) {
-        // dd($output);
         if(!$output) $output = $this->output;
         $token = $this->output['tempData']['identifier'] ?? "";
         if(empty($token)) throw new Exception('Transaction failed. Record didn\'t saved properly. Please try again.');
@@ -240,7 +239,6 @@ trait Stripe
     }
 
     public function insertRecordStripe($output, $trx) {
-        // dd($output['wallet']->id);
         $token = $this->output['tempData']['identifier'] ?? "";
         DB::beginTransaction();
         try{

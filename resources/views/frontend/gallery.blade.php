@@ -31,16 +31,18 @@
                 <div class="col-xl-3 col-lg-4 col-md-6">
                     <div class="gallery-item">
                         <div class="thumb">
-                            <img src="{{ get_image(@$item->image,'site-section') }}" alt="gallery">
-                            <div class="gallery-shape">
-                                <img src="{{ asset('public/frontend/') }}/images/gallery/gallery-shape.png" alt="shape">
-                            </div>
-                            <div class="content">
-                                <h2 class="title">{{ @$item->language->$defualt->title ?? @$item->language->$default_lng->title }}</h2>
-                                <div class="gallery-btn">
-                                    <a href="javascript:void()">#{{ @$item->language->$defualt->tag ?? @$item->language->$default_lng->tag }}</a>
+                            <a class="img-popup" data-rel="lightcase:myCollection" href="{{ get_image(@$item->image,'site-section') }}">
+                                <img src="{{ get_image(@$item->image,'site-section') }}" alt="gallery">
+                                <div class="gallery-shape">
+                                    <img src="{{ asset('public/frontend/') }}/images/gallery/gallery-shape.png" alt="shape">
                                 </div>
-                            </div>
+                                <div class="content">
+                                    <h2 class="title">{{ @$item->language->$defualt->title ?? @$item->language->$default_lng->title }}</h2>
+                                    <div class="gallery-btn">
+                                        <a href="javascript:void()">#{{ @$item->language->$defualt->tag ?? @$item->language->$default_lng->tag }}</a>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
                     </div>
                 </div>

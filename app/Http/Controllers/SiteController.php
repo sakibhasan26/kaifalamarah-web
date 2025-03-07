@@ -274,7 +274,7 @@ class SiteController extends Controller
                 }
                 return redirect()->route("user.add.money.index")->with(['success' => [__('Successfully added money')]]);
             }else{
-                if(!$checkTempData) return redirect()->route('campaign')->with(['error' => [__('Transaction Failed. Record didn\'t saved properly. Please try again')]]);
+                if(!$checkTempData) return redirect()->route('donation')->with(['error' => [__('Transaction Failed. Record didn\'t saved properly. Please try again')]]);
                 $checkTempData = $checkTempData->toArray();
                 try{
                     PaymentGatewayHelper::init($checkTempData)->type(PaymentGatewayConst::TYPEDONATION)->responseReceive('pagadito');

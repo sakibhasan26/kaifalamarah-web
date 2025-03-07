@@ -26,7 +26,7 @@
                         </h4>
                     </div>
                     <div class="card-body">
-                        <form class="card-form" action="{{ setRoute('donation.manual.payment.confirmed') }}" method="POST">
+                        <form class="card-form" action="{{ setRoute('donation.manual.payment.confirmed') }}" method="POST" enctype="multipart/form-data">
                             @csrf
                             <div class="row">
                                 @foreach ($gateway->input_fields as $item)

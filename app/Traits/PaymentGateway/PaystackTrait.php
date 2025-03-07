@@ -342,7 +342,6 @@ trait PaystackTrait
     }
 
     public function insertRecordPaystackDonation($output,$status){
-        // dd($output);
         DB::beginTransaction();
         try{
             if(Auth::guard(get_auth_guard())->check()){
@@ -351,7 +350,6 @@ trait PaystackTrait
                 $user_id = null;
             }
             if(Auth::guard(get_auth_guard())->check()){
-                // dd("OK");
                 $trx_id = generateTrxString("transactions", "trx_id", "D", 9);
 
                 $id = DB::table("transactions")->insertGetId([
@@ -404,7 +402,6 @@ trait PaystackTrait
             }
             DB::commit();
         }catch(Exception $e){
-            dd($e);
             DB::rollBack();
             throw new Exception($e->getMessage());
         }

@@ -23,6 +23,9 @@
     $overview_right_slug = Illuminate\Support\Str::slug(App\Constants\SiteSectionConst::OVERVIEW_RIGHT_SECTION);
     $overview_right_section = App\Models\Admin\SiteSections::getData($overview_right_slug)->first();
 
+    $breadcrumd_slug = Illuminate\Support\Str::slug(App\Constants\SiteSectionConst::BREADCRUMB_SECTION);
+    $breadcrum = App\Models\Admin\SiteSections::getData( $breadcrumd_slug)->first();
+
     $idNames = ['software', 'company', 'client'];
 
 @endphp
@@ -40,7 +43,7 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 
-<section class="banner-section bg-overlay-base bg_img" data-background="{{ asset('public/frontend/') }}/images/banner/banner-bg.jpg">
+<section class="banner-section bg-overlay-base bg_img" data-background="{{ get_image(@$breadcrum->value->images->banner_image,'site-section') }}">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-xl-6 col-lg-7 col-md-12">

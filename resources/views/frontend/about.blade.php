@@ -63,7 +63,7 @@
                     <ul class="about-list">
                         @if(isset($about->value->items))
                             @foreach($about->value->items ?? [] as $key => $item)
-                                <li> <a href="{{ @$item->language->$defualt->link ?? $item->language->$default_lng->link }}">{{__( $item->language->$defualt->title ?? $item->language->$default_lng->title) }}</a> </li>
+                                <li> <a href="{{ @$item->language->$defualt->link ?? @$item->language->$default_lng->link }}">{{__( @$item->language->$defualt->title ?? @$item->language->$default_lng->title) }}</a> </li>
                             @endforeach
                         @endif
                     </ul>

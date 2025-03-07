@@ -64,7 +64,6 @@ class AddMoneyController extends Controller
     public function submit(Request $request) {
 
         $request->merge(['payment_type' => PaymentGatewayConst::TYPEADDMONEY]);
-        dd($request->all());
         try{
             $instance = PaymentGatewayHelper::init($request->all())->type(PaymentGatewayConst::TYPEADDMONEY)->gateway()->render();
         }catch(Exception $e) {
@@ -109,13 +108,12 @@ class AddMoneyController extends Controller
     }
 
     public function callback(Request $request,$gateway){
-        dd($request->all());
         $callback_token = $request->get('token');
         $callback_data = $request->all();
         try{
             PaymentGatewayHelper::init([])->type(PaymentGatewayConst::TYPEADDMONEY)->handleCallback($callback_token,$callback_data,$gateway);
         }catch(Exception $e) {
-            logger($e);
+            // logger($e);
         }
     }
 
@@ -505,9 +503,9 @@ class AddMoneyController extends Controller
 
 
             if(Transaction::where('callback_ref', $token)->exists()) {
-                if(!$temp_data) return redirect()->route('campaign')->with(['success' => [__('Transaction request sended successfully')]]);
+                if(!$temp_data) return redirect()->route('donation')->with(['success' => [__('Transaction request sended successfully')]]);
             }else {
-                if(!$temp_data) return redirect()->route('campaign')->with(['error' => [__('Transaction failed. Record didn\'t saved properly. Please try again')]]);
+                if(!$temp_data) return redirect()->route('donation')->with(['error' => [__('Transaction failed. Record didn\'t saved properly. Please try again')]]);
             }
 
             $update_temp_data = json_decode(json_encode($temp_data->data),true);
@@ -524,7 +522,7 @@ class AddMoneyController extends Controller
 
             return back()->with(['error' => [$e->getMessage()]]);
         }
-        return redirect()->route("campaign")->with(['success' => [__('Successfully Added Money')]]);
+        return redirect()->route("donation")->with(['success' => [__('Successfully Added Money')]]);
     }
     public function perfectCancel(Request $request, $gateway) {
 
@@ -557,7 +555,7 @@ class AddMoneyController extends Controller
 
         $reference =  $request_data['reference'];
         $temp_data = TemporaryData::where("identifier",$reference)->first();
-        if(!$temp_data) return redirect()->route('campaign')->with(['error' => [__('Transaction failed. Record didn\'t saved properly. Please try again.')]]);
+        if(!$temp_data) return redirect()->route('donation')->with(['error' => [__('Transaction failed. Record didn\'t saved properly. Please try again.')]]);
 
         $secret_key = $temp_data->data->credentials->secret_key??"";
         $gateway = PaymentGateway::where('id',$temp_data->data->gateway)->first();
@@ -592,7 +590,7 @@ class AddMoneyController extends Controller
             $token =  PaymentGatewayHelper::getToken($request->all(),$gateway->alias);
             $temp_data = TemporaryData::where("identifier",$token)->first();
 
-            if (!$temp_data) return redirect()->route('campaign')->with(['error' => [__("Transaction Failed. Record didn't saved properly. Please try again.")]]);
+            if (!$temp_data) return redirect()->route('donation')->with(['error' => [__("Transaction Failed. Record didn't saved properly. Please try again.")]]);
             $update_temp_data = json_decode(json_encode($temp_data->data),true);
             $update_temp_data['callback_data']  = $response;
             $temp_data->update([

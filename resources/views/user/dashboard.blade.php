@@ -53,7 +53,7 @@
         </div>
         <div class="col-xxl-3 col-xl-3 col-lg-4 col-md-6 col-sm-6 mb-30">
             <div class="dashboard-item">
-                <a href="{{ setRoute('campaign') }}" class="dash-btn">{{ __('View all') }}</a>
+                <a href="{{ setRoute('donation') }}" class="dash-btn">{{ __('View all') }}</a>
                 <div class="dashboard-content">
                     <div class="dashboard-icon">
                         <i class="lab la-free-code-camp"></i>
@@ -65,7 +65,7 @@
         </div>
         <div class="col-xxl-3 col-xl-3 col-lg-4 col-md-6 col-sm-6 mb-30">
             <div class="dashboard-item">
-                <a href="{{ setRoute('campaign') }}" class="dash-btn">{{ __('View all') }}</a>
+                <a href="{{ setRoute('donation') }}" class="dash-btn">{{ __('View all') }}</a>
                 <div class="dashboard-content">
                     <div class="dashboard-icon">
                         <i class="las la-ticket-alt"></i>
